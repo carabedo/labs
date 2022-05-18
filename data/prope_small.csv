@@ -1,0 +1,2551 @@
+,tipo,barrio,sup,pm2,rooms
+0,apartment,Villa Pueyrredón,80.0,2725.0,4.0
+1,apartment,Caballito,37.0,1560.49,1.0
+2,apartment,Tribunales,70.0,1757.14,3.0
+3,apartment,Palermo,123.0,2520.33,4.0
+4,apartment,Colegiales,47.0,2829.79,2.0
+5,apartment,Palermo,83.0,3349.4,3.0
+6,apartment,Congreso,30.0,3166.67,1.0
+7,apartment,Chacarita,50.0,1720.0,2.0
+8,apartment,Palermo,122.0,1901.64,2.0
+9,apartment,Caballito,41.0,2121.95,1.0
+10,apartment,Tribunales,63.0,2142.86,3.0
+11,apartment,Belgrano,28.0,2964.29,2.0
+12,apartment,Palermo,72.0,3215.62,3.0
+13,apartment,Flores,78.0,1923.08,3.0
+14,apartment,Villa Soldati,88.0,784.09,4.0
+15,apartment,Villa Urquiza,35.0,2914.64,4.0
+16,apartment,Las Cañitas,95.0,2947.37,3.0
+17,apartment,Colegiales,120.0,2291.67,4.0
+18,apartment,San Telmo,69.0,2376.81,2.0
+19,apartment,Belgrano,36.0,3025.0,1.0
+20,apartment,Tribunales,37.0,2976.78,1.0
+21,apartment,Villa Devoto,56.0,1785.71,1.0
+22,apartment,Caballito,63.0,2777.78,3.0
+23,apartment,Palermo,39.0,3282.05,1.0
+24,apartment,Villa Urquiza,121.0,3140.5,4.0
+25,apartment,Villa Lugano,38.0,1565.79,2.0
+26,apartment,Caballito,44.0,2477.52,4.0
+27,apartment,Floresta,35.0,2114.29,1.0
+28,apartment,Retiro,149.0,3020.13,5.0
+29,apartment,Coghlan,72.0,3472.22,3.0
+30,apartment,Villa Pueyrredón,57.0,3149.12,3.0
+31,apartment,Retiro,180.0,4972.22,3.0
+32,apartment,Villa Crespo,68.0,1544.12,2.0
+33,apartment,Flores,33.0,2484.85,1.0
+34,apartment,Palermo,70.0,3142.86,2.0
+35,apartment,Caballito,50.0,2800.0,2.0
+36,apartment,Belgrano,45.0,2706.61,1.0
+37,apartment,Colegiales,48.0,2395.83,1.0
+38,apartment,Barrio Norte,39.0,2692.31,2.0
+39,apartment,Villa Crespo,55.0,1800.0,1.0
+40,apartment,Villa Urquiza,34.0,3382.35,1.0
+41,apartment,Villa Luro,35.0,2085.71,1.0
+42,apartment,Monserrat,73.0,2013.7,4.0
+43,apartment,Villa Urquiza,43.0,2626.14,1.0
+44,apartment,Constitución,36.0,2108.12,1.0
+45,apartment,Boca,66.0,2045.45,3.0
+46,apartment,Belgrano,40.0,2875.0,1.0
+47,apartment,Villa Urquiza,78.0,1956.41,3.0
+48,apartment,Puerto Madero,51.0,3921.57,2.0
+49,apartment,Caballito,43.0,2899.67,1.0
+50,apartment,Puerto Madero,120.0,6041.67,4.0
+51,apartment,San Cristobal,53.0,2677.36,2.0
+52,apartment,Villa Crespo,56.0,2232.14,3.0
+53,apartment,San Telmo,37.0,1656.76,1.0
+54,apartment,Caballito,64.0,1717.19,3.0
+55,apartment,Nuñez,44.0,3159.09,1.0
+56,apartment,Monserrat,54.0,1977.78,2.0
+57,apartment,Villa Santa Rita,46.0,1954.35,2.0
+58,apartment,Saavedra,32.0,2562.5,1.0
+59,apartment,Floresta,70.0,1814.29,2.0
+60,apartment,Palermo,54.0,2901.5,2.0
+61,apartment,Caballito,47.0,2212.77,2.0
+62,apartment,Palermo,98.0,2704.08,3.0
+63,apartment,San Cristobal,39.0,1743.59,2.0
+64,apartment,San Telmo,38.0,1600.0,1.0
+65,apartment,Palermo,62.0,3951.61,2.0
+66,apartment,Chacarita,52.0,1615.38,2.0
+67,apartment,Villa Urquiza,83.0,2705.41,3.0
+68,apartment,Caballito,88.0,2134.61,3.0
+69,apartment,Palermo,59.0,3898.31,1.0
+70,apartment,Tribunales,180.0,1500.0,5.0
+71,apartment,Belgrano,172.0,2814.64,4.0
+72,apartment,Villa Urquiza,37.0,2432.43,1.0
+73,apartment,Retiro,48.0,2500.0,2.0
+74,apartment,Villa Lugano,120.0,1150.0,3.0
+75,apartment,Villa Urquiza,110.0,3272.0,4.0
+76,apartment,Saavedra,41.0,2390.24,2.0
+77,apartment,Belgrano,47.0,1700.0,2.0
+78,apartment,Belgrano,84.0,2678.57,3.0
+79,apartment,Caballito,37.0,2324.32,1.0
+80,apartment,Almagro,21.0,2142.86,1.0
+81,apartment,Belgrano,34.0,2811.76,1.0
+82,apartment,Palermo,45.0,5333.33,2.0
+83,apartment,Palermo,70.0,2585.71,2.0
+84,apartment,Palermo,65.0,3846.15,3.0
+85,apartment,San Telmo,231.0,1731.6,4.0
+86,apartment,Barracas,57.0,2280.7,3.0
+87,apartment,Palermo,129.0,2519.38,4.0
+88,apartment,Parque Patricios,73.0,1164.38,3.0
+89,apartment,Palermo,40.0,2900.0,2.0
+90,apartment,Versalles,20.0,5400.0,1.0
+91,apartment,Parque Patricios,77.0,1750.34,3.0
+92,apartment,Villa Crespo,35.0,2142.86,1.0
+93,apartment,Palermo,233.0,5150.21,7.0
+94,apartment,Palermo,47.0,3031.91,2.0
+95,apartment,Villa Urquiza,60.0,2580.0,2.0
+96,apartment,Villa Pueyrredón,55.0,1781.82,3.0
+97,apartment,San Telmo,34.0,2227.68,1.0
+98,apartment,Caballito,80.0,3062.5,3.0
+99,apartment,Nuñez,100.0,3150.0,3.0
+100,apartment,Constitución,43.0,1634.65,1.0
+101,apartment,Nuñez,66.0,2575.76,2.0
+102,apartment,Flores,46.0,2315.22,2.0
+103,apartment,Colegiales,38.0,2342.11,2.0
+104,apartment,Balvanera,96.0,1333.33,3.0
+105,apartment,Agronomía,74.0,2381.08,3.0
+106,apartment,Caballito,50.0,1900.0,2.0
+107,apartment,Almagro,91.0,2296.7,3.0
+108,apartment,Monserrat,99.0,1373.74,3.0
+109,apartment,Palermo,90.0,2444.44,4.0
+110,apartment,Floresta,68.0,2029.41,5.0
+111,apartment,Belgrano,48.0,2666.67,2.0
+112,apartment,Nuñez,67.0,2698.39,2.0
+113,apartment,Palermo,55.0,5454.55,2.0
+114,apartment,Caballito,55.0,2524.96,2.0
+115,apartment,Parque Chacabuco,54.0,2277.78,1.0
+116,apartment,Flores,155.0,1612.9,4.0
+117,apartment,San Telmo,59.0,2425.95,2.0
+118,apartment,Monserrat,112.0,2142.86,5.0
+119,apartment,Belgrano,37.0,3108.11,1.0
+120,apartment,Parque Patricios,36.0,1693.75,1.0
+121,apartment,Colegiales,70.0,3571.43,3.0
+122,apartment,Belgrano,70.0,3427.14,4.0
+123,apartment,Villa Pueyrredón,51.0,2537.02,2.0
+124,apartment,Flores,181.0,1988.95,4.0
+125,apartment,Parque Chacabuco,49.0,1836.73,2.0
+126,apartment,Palermo,78.0,2756.41,2.0
+127,apartment,Colegiales,71.0,2323.94,3.0
+128,apartment,Recoleta,28.0,3210.71,2.0
+129,apartment,Saavedra,41.0,3987.22,2.0
+130,apartment,Recoleta,240.0,2912.5,4.0
+131,apartment,Villa Crespo,22.0,3000.0,1.0
+132,apartment,Flores,70.0,1571.43,4.0
+133,apartment,Floresta,42.0,2023.81,2.0
+134,apartment,Once,76.0,1776.32,3.0
+135,apartment,Belgrano,133.0,2744.36,6.0
+136,apartment,Palermo,127.0,2913.39,4.0
+137,apartment,Flores,83.0,1542.17,3.0
+138,apartment,San Telmo,54.0,2520.33,2.0
+139,apartment,San Telmo,97.0,3042.92,2.0
+140,apartment,Palermo,107.0,2327.1,4.0
+141,apartment,Villa Urquiza,51.0,2440.39,2.0
+142,apartment,Villa Devoto,59.0,1830.51,3.0
+143,apartment,Palermo,410.0,5609.76,9.0
+144,apartment,Palermo,43.0,2986.31,1.0
+145,apartment,San Telmo,54.0,2874.3,2.0
+146,apartment,Recoleta,52.0,4000.0,2.0
+147,apartment,Recoleta,68.0,3529.4,3.0
+148,apartment,Saavedra,55.0,2443.64,2.0
+149,apartment,Flores,113.0,1500.0,4.0
+150,apartment,Palermo,232.0,5517.24,5.0
+151,apartment,Barracas,240.0,2000.0,5.0
+152,apartment,Belgrano,50.0,4500.0,2.0
+153,apartment,Recoleta,27.0,3592.59,1.0
+154,apartment,Recoleta,78.0,2666.67,3.0
+155,apartment,Barrio Norte,94.0,2978.72,4.0
+156,apartment,Flores,43.0,2200.0,2.0
+157,apartment,Flores,52.0,2028.85,3.0
+158,apartment,Belgrano,75.0,3333.33,3.0
+159,apartment,Barrio Norte,28.0,3500.0,1.0
+160,apartment,Belgrano,52.0,2500.0,1.0
+161,apartment,Palermo,87.0,4597.7,3.0
+162,apartment,Almagro,80.0,2500.0,3.0
+163,apartment,Palermo,45.0,3177.78,2.0
+164,apartment,Constitución,43.0,1832.79,1.0
+165,apartment,Belgrano,50.0,2960.0,2.0
+166,apartment,Belgrano,46.0,2530.7,1.0
+167,apartment,Villa Urquiza,104.0,2211.54,4.0
+168,apartment,Barrio Norte,43.0,3232.56,2.0
+169,apartment,Monserrat,70.0,1842.86,3.0
+170,apartment,Flores,74.0,2283.78,4.0
+171,apartment,Parque Patricios,31.0,1775.0,1.0
+172,apartment,Recoleta,199.0,2361.81,8.0
+173,apartment,Flores,50.0,1970.0,3.0
+174,apartment,Palermo,36.0,3611.11,1.0
+175,apartment,Nuñez,43.0,2690.7,1.0
+176,apartment,Villa Crespo,56.0,2285.71,2.0
+177,apartment,Congreso,39.0,2025.64,1.0
+178,apartment,Boca,23.0,1913.04,1.0
+179,apartment,Belgrano,233.0,3852.29,4.0
+180,apartment,Chacarita,40.0,2500.0,1.0
+181,apartment,Palermo,63.0,3942.73,2.0
+182,apartment,Colegiales,77.0,1623.38,3.0
+183,apartment,Caballito,105.0,2314.29,3.0
+184,apartment,Palermo,58.0,3137.93,3.0
+185,apartment,Congreso,198.0,1313.13,6.0
+186,apartment,Villa Urquiza,60.0,2804.18,2.0
+187,apartment,Almagro,48.0,1875.0,3.0
+188,apartment,Balvanera,77.0,1948.05,3.0
+189,apartment,Constitución,47.0,1957.45,1.0
+190,apartment,Nuñez,65.0,1769.23,3.0
+191,apartment,Villa Urquiza,115.0,3301.72,4.0
+192,apartment,Caballito,44.0,2707.27,4.0
+193,apartment,Balvanera,22.0,2454.55,1.0
+194,apartment,Caballito,68.0,2204.41,3.0
+195,apartment,San Cristobal,39.0,4871.79,1.0
+196,apartment,Mataderos,74.0,1202.7,3.0
+197,apartment,Palermo,38.0,2815.79,1.0
+198,apartment,Palermo,37.0,3518.92,4.0
+199,apartment,Villa Urquiza,64.0,2183.44,3.0
+200,apartment,Puerto Madero,175.0,5085.71,3.0
+201,apartment,Caballito,41.0,2268.03,2.0
+202,apartment,Palermo,222.0,2878.38,7.0
+203,apartment,Villa Urquiza,65.0,2078.91,2.0
+204,apartment,Caballito,43.0,3017.7,1.0
+205,apartment,Belgrano,41.0,2682.93,4.0
+206,apartment,Caballito,108.0,2515.46,4.0
+207,apartment,Recoleta,40.0,4500.0,2.0
+208,apartment,San Nicolás,40.0,2125.0,2.0
+209,apartment,Belgrano,341.0,1554.25,4.0
+210,apartment,Villa Crespo,40.0,2191.25,1.0
+211,apartment,Abasto,28.0,2321.43,2.0
+212,apartment,Belgrano,80.0,3537.5,3.0
+213,apartment,Flores,46.0,1913.04,1.0
+214,apartment,Belgrano,34.0,3176.47,1.0
+215,apartment,Recoleta,69.0,2608.7,4.0
+216,apartment,Caballito,104.0,2355.77,3.0
+217,apartment,Palermo,93.0,3010.75,4.0
+218,apartment,Villa Pueyrredón,54.0,2240.74,2.0
+219,apartment,Belgrano,130.0,3461.54,4.0
+220,apartment,Villa Luro,44.0,2840.91,2.0
+221,apartment,Caballito,83.0,2771.08,3.0
+222,apartment,Flores,36.0,2222.22,2.0
+223,apartment,Palermo,51.0,5098.04,2.0
+224,apartment,Colegiales,40.0,2375.0,1.0
+225,apartment,Villa Crespo,35.0,3219.09,3.0
+226,apartment,Parque Chacabuco,49.0,1683.67,2.0
+227,apartment,Boca,35.0,1857.14,2.0
+228,apartment,Belgrano,35.0,3028.57,1.0
+229,apartment,Flores,33.0,2484.85,1.0
+230,apartment,San Telmo,34.0,2227.68,1.0
+231,apartment,Palermo,62.0,4677.42,3.0
+232,apartment,Caballito,94.0,2659.57,4.0
+233,apartment,Belgrano,20.0,5300.0,1.0
+234,apartment,Congreso,85.0,2000.0,4.0
+235,apartment,Barrio Norte,50.0,6000.0,2.0
+236,apartment,Congreso,105.0,1571.43,4.0
+237,apartment,Recoleta,32.0,3734.38,1.0
+238,apartment,Villa del Parque,30.0,2600.0,1.0
+239,apartment,Villa Urquiza,49.0,2000.0,2.0
+240,apartment,Palermo,25.0,3196.0,1.0
+241,apartment,Flores,31.0,2419.35,1.0
+242,apartment,Villa Urquiza,85.0,2823.53,3.0
+243,apartment,Belgrano,115.0,2925.03,3.0
+244,apartment,Puerto Madero,78.0,5961.54,2.0
+245,apartment,Palermo,194.0,3762.89,6.0
+246,apartment,Villa Urquiza,56.0,2743.34,3.0
+247,apartment,Villa Soldati,49.0,795.92,3.0
+248,apartment,San Telmo,52.0,2283.52,2.0
+249,apartment,Flores,54.0,1574.07,2.0
+250,apartment,Balvanera,141.0,1702.13,5.0
+251,apartment,Boca,38.0,1710.53,2.0
+252,apartment,Parque Centenario,59.0,2322.03,3.0
+253,apartment,Barracas,85.0,2000.0,4.0
+254,apartment,San Telmo,47.0,894.36,2.0
+255,apartment,Villa Crespo,61.0,2295.08,3.0
+256,apartment,Caballito,55.0,1636.36,1.0
+257,apartment,Monserrat,79.0,1582.28,3.0
+258,apartment,Nuñez,36.0,4027.78,1.0
+259,apartment,Belgrano,34.0,2794.12,1.0
+260,apartment,Congreso,240.0,1362.5,7.0
+261,apartment,Palermo,56.0,2642.86,1.0
+262,apartment,Abasto,46.0,1945.65,2.0
+263,apartment,Villa Urquiza,43.0,3069.77,2.0
+264,apartment,San Telmo,24.0,3570.2,2.0
+265,apartment,Villa Urquiza,100.0,2710.0,4.0
+266,apartment,San Telmo,35.0,2051.86,2.0
+267,apartment,Villa Urquiza,81.0,2865.13,4.0
+268,apartment,Belgrano,118.0,3135.59,4.0
+269,apartment,Palermo,110.0,3181.82,4.0
+270,apartment,Belgrano,66.0,3181.82,2.0
+271,apartment,Villa Crespo,42.0,2840.48,1.0
+272,apartment,Once,99.0,1404.04,4.0
+273,apartment,Belgrano,65.0,2769.23,3.0
+274,apartment,Caballito,48.0,2479.17,2.0
+275,apartment,San Telmo,33.0,2822.85,2.0
+276,apartment,Villa del Parque,37.0,2099.08,1.0
+277,apartment,Recoleta,82.0,3256.1,4.0
+278,apartment,Colegiales,48.0,3645.83,2.0
+279,apartment,Belgrano,170.0,3529.41,5.0
+280,apartment,Barracas,49.0,1918.37,1.0
+281,apartment,Caballito,54.0,2870.37,3.0
+282,apartment,Centro / Microcentro,28.0,2282.14,1.0
+283,apartment,Colegiales,53.0,2830.19,2.0
+284,apartment,Liniers,46.0,2021.74,2.0
+285,apartment,Villa del Parque,32.0,2093.75,1.0
+286,apartment,Barrio Norte,91.0,1813.19,3.0
+287,apartment,Villa Urquiza,85.0,2894.12,3.0
+288,apartment,Saavedra,46.0,2500.0,2.0
+289,apartment,Belgrano,37.0,3513.51,1.0
+290,apartment,Balvanera,39.0,1717.95,2.0
+291,apartment,San Cristobal,43.0,2279.07,2.0
+292,apartment,Villa del Parque,107.0,3028.04,4.0
+293,apartment,Almagro,64.0,1953.12,2.0
+294,apartment,San Telmo,55.0,2304.0,2.0
+295,apartment,Recoleta,44.0,2909.09,2.0
+296,apartment,Barrio Norte,56.0,2678.57,3.0
+297,apartment,Palermo,37.0,2666.4,1.0
+298,apartment,San Telmo,48.0,2298.98,2.0
+299,apartment,Saavedra,38.0,2105.26,1.0
+300,apartment,Belgrano,42.0,2785.71,2.0
+301,apartment,Palermo,120.0,3166.67,3.0
+302,apartment,Caballito,42.0,2023.81,2.0
+303,apartment,San Telmo,42.0,2266.05,2.0
+304,apartment,Almagro,115.0,1817.39,4.0
+305,apartment,Palermo,41.0,3550.9,1.0
+306,apartment,Barracas,34.0,2352.94,1.0
+307,apartment,San Telmo,30.0,2796.33,1.0
+308,apartment,San Nicolás,26.0,2500.0,1.0
+309,apartment,Palermo,104.0,3028.85,4.0
+310,apartment,Palermo,86.0,2000.0,3.0
+311,apartment,Boedo,30.0,5706.67,1.0
+312,apartment,Floresta,65.0,1969.23,3.0
+313,apartment,Caballito,32.0,2215.62,1.0
+314,apartment,Villa Urquiza,59.0,3294.18,2.0
+315,apartment,Caballito,50.0,3560.0,2.0
+316,apartment,Belgrano,60.0,4731.61,2.0
+317,apartment,Palermo,223.0,4215.25,5.0
+318,apartment,Villa Crespo,43.0,2788.37,2.0
+319,apartment,Colegiales,41.0,2560.98,1.0
+320,apartment,Villa Crespo,73.0,2534.25,3.0
+321,apartment,Villa Crespo,25.0,3000.0,1.0
+322,apartment,Recoleta,318.0,2295.6,7.0
+323,apartment,Recoleta,243.0,1399.18,3.0
+324,apartment,San Telmo,100.0,2643.31,3.0
+325,apartment,Coghlan,65.0,3061.54,2.0
+326,apartment,San Telmo,35.0,2456.79,1.0
+327,apartment,Villa Urquiza,34.0,2558.82,1.0
+328,apartment,Velez Sarsfield,45.0,3555.56,2.0
+329,apartment,Centro / Microcentro,45.0,2044.44,2.0
+330,apartment,San Telmo,147.0,2380.95,5.0
+331,apartment,Nuñez,39.0,2692.31,2.0
+332,apartment,Villa Crespo,132.0,2928.58,4.0
+333,apartment,Balvanera,39.0,2051.28,2.0
+334,apartment,Belgrano,38.0,3105.26,1.0
+335,apartment,Barrio Norte,135.0,2666.67,4.0
+336,apartment,Palermo,90.0,5500.0,3.0
+337,apartment,San Cristobal,85.0,2352.94,4.0
+338,apartment,Liniers,55.0,1963.64,3.0
+339,apartment,Caballito,76.0,2763.16,2.0
+340,apartment,Floresta,175.0,1685.71,5.0
+341,apartment,Palermo,56.0,5089.29,3.0
+342,apartment,Villa Urquiza,41.0,2365.85,1.0
+343,apartment,Villa Urquiza,56.0,2387.71,2.0
+344,apartment,Palermo,37.0,2756.76,1.0
+345,apartment,Barrio Norte,110.0,1863.64,3.0
+346,apartment,Villa Urquiza,30.0,2766.67,1.0
+347,apartment,Caballito,47.0,2836.17,2.0
+348,apartment,Villa del Parque,65.0,3089.23,3.0
+349,apartment,Caballito,50.0,2440.0,2.0
+350,apartment,Once,40.0,2712.5,2.0
+351,apartment,Balvanera,154.0,1292.21,5.0
+352,apartment,Caballito,43.0,2580.23,4.0
+353,apartment,Belgrano,85.0,3882.35,3.0
+354,apartment,Palermo,41.0,3714.39,2.0
+355,apartment,Liniers,39.0,2282.05,2.0
+356,apartment,San Telmo,55.0,2074.99,2.0
+357,apartment,Almagro,35.0,2320.0,1.0
+358,apartment,Recoleta,270.0,2888.89,6.0
+359,apartment,Belgrano,79.0,3544.3,3.0
+360,apartment,Caballito,143.0,3272.73,4.0
+361,apartment,Saavedra,120.0,2316.67,3.0
+362,apartment,Villa Urquiza,40.0,3075.0,2.0
+363,apartment,Puerto Madero,104.0,5288.46,3.0
+364,apartment,Villa Urquiza,60.0,2750.0,2.0
+365,apartment,Caballito,60.0,2666.67,3.0
+366,apartment,Villa Crespo,26.0,2884.62,1.0
+367,apartment,Barrio Norte,54.0,3888.89,2.0
+368,apartment,Belgrano,60.0,2816.67,2.0
+369,apartment,Palermo,53.0,2962.26,2.0
+370,apartment,Barrio Norte,50.0,1760.0,2.0
+371,apartment,Recoleta,116.0,2715.52,4.0
+372,apartment,Almagro,81.0,2209.88,4.0
+373,apartment,Villa Crespo,52.0,2094.23,2.0
+374,apartment,Colegiales,67.0,1970.15,2.0
+375,apartment,Villa Urquiza,39.0,1887.18,3.0
+376,apartment,San Cristobal,57.0,1570.18,2.0
+377,apartment,Villa del Parque,76.0,1565.79,3.0
+378,apartment,Balvanera,75.0,1600.0,4.0
+379,apartment,Palermo,89.0,1719.1,3.0
+380,apartment,Floresta,40.0,1725.0,2.0
+381,apartment,Colegiales,43.0,2155.81,1.0
+382,apartment,Caballito,37.0,3445.95,1.0
+383,apartment,Floresta,36.0,2638.89,1.0
+384,apartment,Floresta,124.0,1854.84,4.0
+385,apartment,Chacarita,60.0,2500.0,2.0
+386,apartment,Flores,64.0,2343.75,3.0
+387,apartment,Constitución,48.0,1655.57,2.0
+388,apartment,Monserrat,35.0,2485.71,1.0
+389,apartment,Palermo,128.0,2140.62,4.0
+390,apartment,Belgrano,52.0,2365.38,2.0
+391,apartment,Villa Lugano,60.0,800.0,4.0
+392,apartment,Belgrano,129.0,3720.93,4.0
+393,apartment,Villa Crespo,107.0,2526.6,4.0
+394,apartment,Villa Crespo,50.0,3203.2,4.0
+395,apartment,Villa Urquiza,69.0,2084.35,3.0
+396,apartment,Belgrano,110.0,4737.11,4.0
+397,apartment,Villa Urquiza,59.0,1988.24,3.0
+398,apartment,Palermo,50.0,2480.0,2.0
+399,apartment,Balvanera,105.0,1571.43,4.0
+400,apartment,Villa Urquiza,67.0,2686.57,3.0
+401,apartment,Monserrat,63.0,1580.79,2.0
+402,apartment,Villa Crespo,65.0,2923.08,3.0
+403,apartment,Balvanera,36.0,2361.11,2.0
+404,apartment,Recoleta,59.0,2372.88,3.0
+405,apartment,Colegiales,38.0,2578.95,1.0
+406,apartment,Flores,64.0,1203.12,3.0
+407,apartment,Villa Urquiza,32.0,2343.75,1.0
+408,apartment,San Telmo,34.0,2006.31,1.0
+409,apartment,Belgrano,54.0,4698.15,2.0
+410,apartment,Boedo,35.0,6851.43,1.0
+411,apartment,Puerto Madero,92.0,4945.65,2.0
+412,apartment,San Telmo,34.0,2325.49,1.0
+413,apartment,Monserrat,47.0,1936.17,2.0
+414,apartment,Parque Patricios,39.0,3307.59,2.0
+415,apartment,Congreso,71.0,1830.99,3.0
+416,apartment,Palermo,40.0,2550.0,2.0
+417,apartment,Villa Lugano,41.0,2195.12,2.0
+418,apartment,Belgrano,34.0,4025.09,1.0
+419,apartment,Boca,35.0,2000.0,2.0
+420,apartment,Puerto Madero,67.0,4776.12,2.0
+421,apartment,Palermo,74.0,4716.22,3.0
+422,apartment,Palermo,137.0,2481.75,3.0
+423,apartment,Villa Crespo,46.0,2717.39,2.0
+424,apartment,Villa Crespo,86.0,2441.86,3.0
+425,apartment,Palermo,109.0,2467.89,2.0
+426,apartment,Flores,47.0,2553.19,2.0
+427,apartment,Balvanera,134.0,1865.67,4.0
+428,apartment,Caballito,39.0,2487.18,1.0
+429,apartment,Palermo,35.0,2657.14,1.0
+430,apartment,Recoleta,105.0,2523.81,3.0
+431,apartment,Congreso,38.0,894.74,1.0
+432,apartment,Recoleta,90.0,3100.0,3.0
+433,apartment,Mataderos,61.0,1475.41,3.0
+434,apartment,Caballito,143.0,2529.94,4.0
+435,apartment,Palermo,38.0,4605.26,1.0
+436,apartment,Barrio Norte,131.0,2977.1,4.0
+437,apartment,Congreso,82.0,2073.17,4.0
+438,apartment,Parque Chacabuco,37.0,2297.3,1.0
+439,apartment,Nuñez,50.0,4336.3,2.0
+440,apartment,Monserrat,47.0,2023.4,2.0
+441,apartment,Caballito,53.0,2226.42,2.0
+442,apartment,Villa Crespo,40.0,2160.0,1.0
+443,apartment,Recoleta,142.0,5034.68,4.0
+444,apartment,Villa Urquiza,39.0,2666.67,1.0
+445,apartment,Parque Centenario,284.0,1197.18,6.0
+446,apartment,Parque Patricios,47.0,2065.51,2.0
+447,apartment,Almagro,72.0,1930.56,3.0
+448,apartment,Barrio Norte,91.0,2527.47,3.0
+449,apartment,Palermo,45.0,2555.56,2.0
+450,apartment,Nuñez,49.0,2612.24,3.0
+451,apartment,Balvanera,57.0,1842.11,3.0
+452,apartment,Barracas,35.0,1428.57,1.0
+453,apartment,Caballito,93.0,4032.26,4.0
+454,apartment,Chacarita,30.0,3666.67,1.0
+455,apartment,Villa Crespo,48.0,2604.17,2.0
+456,apartment,Villa Urquiza,43.0,2593.8,4.0
+457,apartment,Villa Devoto,56.0,1696.43,3.0
+458,apartment,Caballito,81.0,2518.52,3.0
+459,apartment,Colegiales,38.0,2671.05,1.0
+460,apartment,Caballito,45.0,2922.22,2.0
+461,apartment,Caballito,123.0,2548.78,4.0
+462,apartment,Palermo,72.0,2500.0,2.0
+463,apartment,Caballito,170.0,2823.53,4.0
+464,apartment,Nuñez,45.0,3000.0,1.0
+465,apartment,Villa Urquiza,52.0,2025.96,3.0
+466,apartment,Caballito,67.0,3248.84,3.0
+467,apartment,Palermo,81.0,2925.93,3.0
+468,apartment,Belgrano,110.0,2818.18,4.0
+469,apartment,Caballito,36.0,2166.67,1.0
+470,apartment,Caballito,37.0,2702.7,1.0
+471,apartment,Recoleta,39.0,2179.49,2.0
+472,apartment,Nuñez,80.0,1700.0,2.0
+473,apartment,Caballito,43.0,2870.67,1.0
+474,apartment,Caballito,107.0,1775.7,2.0
+475,apartment,Flores,80.0,2250.0,3.0
+476,apartment,San Nicolás,175.0,1267.63,1.0
+477,apartment,Caballito,38.0,2315.79,2.0
+478,apartment,Abasto,65.0,2200.0,3.0
+479,apartment,Palermo,60.0,3968.52,2.0
+480,apartment,San Telmo,36.0,2108.12,1.0
+481,apartment,San Telmo,48.0,2021.93,2.0
+482,apartment,Recoleta,122.0,3934.43,4.0
+483,apartment,Caballito,80.0,3018.51,3.0
+484,apartment,Saavedra,56.0,3849.61,3.0
+485,apartment,Parque Patricios,45.0,2188.89,2.0
+486,apartment,Monserrat,40.0,2250.0,2.0
+487,apartment,Constitución,54.0,1737.04,1.0
+488,apartment,Almagro,92.0,1739.13,3.0
+489,apartment,Barrio Norte,43.0,3581.4,3.0
+490,apartment,Barrio Norte,149.0,2885.91,4.0
+491,apartment,Caballito,35.0,2271.43,1.0
+492,apartment,Monserrat,46.0,2130.43,2.0
+493,apartment,Palermo,85.0,2399.45,2.0
+494,apartment,Boedo,48.0,2135.42,2.0
+495,apartment,Flores,72.0,2152.78,3.0
+496,apartment,Mataderos,110.0,3181.82,3.0
+497,apartment,Caballito,39.0,2666.67,1.0
+498,apartment,Coghlan,46.0,2519.57,2.0
+499,apartment,Palermo,49.0,2163.27,2.0
+500,apartment,Nuñez,68.0,3750.0,2.0
+501,apartment,Saavedra,86.0,2546.51,4.0
+502,apartment,Barracas,60.0,2750.0,3.0
+503,apartment,San Telmo,40.0,2452.5,1.0
+504,apartment,Monte Castro,46.0,2282.61,2.0
+505,apartment,Congreso,68.0,1617.65,3.0
+506,apartment,Palermo,23.0,2586.96,1.0
+507,apartment,Palermo,213.0,4178.4,5.0
+508,apartment,Monserrat,37.0,2297.3,1.0
+509,apartment,Barrio Norte,134.0,2350.75,4.0
+510,apartment,Flores,53.0,2169.81,3.0
+511,apartment,Caballito,81.0,2943.52,3.0
+512,apartment,Belgrano,22.0,3590.91,1.0
+513,apartment,Floresta,35.0,1768.57,2.0
+514,apartment,Belgrano,95.0,3639.69,3.0
+515,apartment,Boca,46.0,1521.74,2.0
+516,apartment,Floresta,75.0,1733.33,3.0
+517,apartment,Centro / Microcentro,75.0,2400.0,4.0
+518,apartment,Constitución,34.0,1823.53,2.0
+519,apartment,Flores,25.0,2172.0,1.0
+520,apartment,Boedo,31.0,2843.99,1.0
+521,apartment,Villa Crespo,24.0,2666.67,1.0
+522,apartment,Belgrano,233.0,2339.06,7.0
+523,apartment,Belgrano,115.0,4521.74,4.0
+524,apartment,Congreso,38.0,2342.11,1.0
+525,apartment,San Telmo,33.0,2335.02,1.0
+526,apartment,Parque Patricios,94.0,2127.66,4.0
+527,apartment,Palermo,83.0,1987.95,2.0
+528,apartment,Colegiales,45.0,3000.0,2.0
+529,apartment,Almagro,120.0,2041.67,4.0
+530,apartment,Palermo,158.0,2436.71,4.0
+531,apartment,Belgrano,53.0,2830.19,3.0
+532,apartment,Saavedra,55.0,2927.27,2.0
+533,apartment,Flores,114.0,2982.46,4.0
+534,apartment,Almagro,38.0,2124.89,1.0
+535,apartment,Barracas,43.0,2674.42,2.0
+536,apartment,Monserrat,35.0,2514.29,1.0
+537,apartment,Palermo,63.0,4001.86,2.0
+538,apartment,Palermo,37.0,2810.81,1.0
+539,apartment,Puerto Madero,67.0,5074.63,2.0
+540,apartment,Palermo,160.0,2343.75,4.0
+541,apartment,Recoleta,40.0,2375.0,1.0
+542,apartment,Recoleta,90.0,3888.89,3.0
+543,apartment,Palermo,30.0,3266.67,1.0
+544,apartment,Caballito,36.0,2277.78,1.0
+545,apartment,Villa Urquiza,35.0,2239.71,1.0
+546,apartment,Almagro,79.0,1898.73,3.0
+547,apartment,Palermo,40.0,2500.0,1.0
+548,apartment,Villa Crespo,39.0,2743.59,1.0
+549,apartment,Palermo,80.0,4312.5,3.0
+550,apartment,Flores,43.0,1872.09,2.0
+551,apartment,Balvanera,297.0,1309.76,7.0
+552,apartment,Barracas,37.0,2891.89,2.0
+553,apartment,Recoleta,120.0,3666.67,4.0
+554,apartment,Parque Avellaneda,98.0,1102.04,2.0
+555,apartment,Monserrat,25.0,3440.0,1.0
+556,apartment,Nuñez,110.0,2920.0,3.0
+557,apartment,Palermo,86.0,3476.74,4.0
+558,apartment,Balvanera,33.0,1909.09,1.0
+559,apartment,Villa Crespo,39.0,2307.69,2.0
+560,apartment,Belgrano,47.0,2553.19,1.0
+561,apartment,Villa Luro,30.0,2500.0,1.0
+562,apartment,Palermo,61.0,2786.89,3.0
+563,apartment,Palermo,154.0,3344.16,4.0
+564,apartment,Caballito,61.0,2732.79,3.0
+565,apartment,Barrio Norte,170.0,1752.94,5.0
+566,apartment,Almagro,36.0,3333.33,1.0
+567,apartment,Palermo,34.0,1867.65,1.0
+568,apartment,Congreso,125.0,2400.0,5.0
+569,apartment,Nuñez,43.0,2860.47,2.0
+570,apartment,Chacarita,23.0,2260.87,1.0
+571,apartment,Caballito,33.0,2983.03,1.0
+572,apartment,Balvanera,37.0,3291.49,1.0
+573,apartment,Boedo,30.0,1233.33,1.0
+574,apartment,Saavedra,56.0,2160.71,2.0
+575,apartment,Recoleta,213.0,3591.55,6.0
+576,apartment,Villa Urquiza,41.0,2577.37,1.0
+577,apartment,Villa Urquiza,85.0,2894.12,3.0
+578,apartment,Palermo,56.0,4500.0,2.0
+579,apartment,Belgrano,47.0,2978.72,3.0
+580,apartment,Palermo,43.0,4302.33,2.0
+581,apartment,Mataderos,120.0,733.33,1.0
+582,apartment,Palermo,46.0,4080.43,2.0
+583,apartment,Flores,51.0,2372.55,2.0
+584,apartment,San Telmo,220.0,1272.73,7.0
+585,apartment,Villa Luro,50.0,3100.0,2.0
+586,apartment,Caballito,46.0,2347.83,1.0
+587,apartment,Parque Patricios,56.0,1339.29,3.0
+588,apartment,Caballito,79.0,2322.78,3.0
+589,apartment,Villa Crespo,40.0,2208.75,1.0
+590,apartment,Barrio Norte,85.0,2529.41,3.0
+591,apartment,Boca,49.0,1183.67,2.0
+592,apartment,Constitución,52.0,1384.62,3.0
+593,apartment,Palermo,140.0,4985.71,4.0
+594,apartment,Villa Urquiza,56.0,2410.71,2.0
+595,apartment,Villa Urquiza,64.0,2000.0,3.0
+596,apartment,Belgrano,94.0,3819.15,3.0
+597,apartment,Palermo,72.0,3011.46,3.0
+598,apartment,Almagro,44.0,2250.0,1.0
+599,apartment,Monserrat,38.0,1789.47,2.0
+600,apartment,Caballito,35.0,2280.0,3.0
+601,apartment,Barrio Norte,93.0,1774.19,3.0
+602,apartment,Villa Pueyrredón,64.0,2109.38,2.0
+603,apartment,Flores,34.0,2117.65,1.0
+604,apartment,Villa Urquiza,37.0,2720.33,1.0
+605,apartment,Villa Urquiza,50.0,2200.0,2.0
+606,apartment,Parque Patricios,54.0,2388.89,2.0
+607,apartment,Palermo,143.0,2167.83,2.0
+608,apartment,Nuñez,61.0,2819.67,2.0
+609,apartment,Caballito,78.0,2724.36,3.0
+610,apartment,Balvanera,64.0,2171.88,3.0
+611,apartment,Caballito,45.0,2987.51,2.0
+612,apartment,Villa Urquiza,50.0,2400.0,1.0
+613,apartment,Villa Devoto,43.0,2612.79,1.0
+614,apartment,Nuñez,145.0,2482.76,3.0
+615,apartment,Barracas,91.0,1428.57,2.0
+616,apartment,Villa Urquiza,37.0,2718.77,1.0
+617,apartment,Colegiales,42.0,2285.71,2.0
+618,apartment,Barracas,120.0,1375.0,4.0
+619,apartment,Recoleta,54.0,2388.89,2.0
+620,apartment,Villa Crespo,22.0,2909.09,1.0
+621,apartment,Recoleta,142.0,4764.96,4.0
+622,apartment,San Telmo,40.0,2500.0,1.0
+623,apartment,Caballito,36.0,2611.11,1.0
+624,apartment,Belgrano,47.0,3617.02,2.0
+625,apartment,Saavedra,116.0,2146.55,4.0
+626,apartment,Flores,80.0,2187.5,3.0
+627,apartment,Belgrano,47.0,2291.91,1.0
+628,apartment,Villa Urquiza,88.0,2544.74,3.0
+629,apartment,Nuñez,353.0,1260.62,4.0
+630,apartment,Caballito,52.0,2305.77,2.0
+631,apartment,Flores,46.0,2113.04,2.0
+632,apartment,Coghlan,66.0,2090.91,2.0
+633,apartment,Puerto Madero,85.0,5647.06,2.0
+634,apartment,Boedo,25.0,1932.0,1.0
+635,apartment,Belgrano,41.0,2677.32,2.0
+636,apartment,San Telmo,59.0,2166.95,2.0
+637,apartment,Nuñez,51.0,3431.37,2.0
+638,apartment,Recoleta,43.0,3883.72,2.0
+639,apartment,Recoleta,35.0,3628.57,2.0
+640,apartment,Floresta,88.0,1340.91,4.0
+641,apartment,Caballito,40.0,3000.0,2.0
+642,apartment,Villa Urquiza,66.0,1954.55,2.0
+643,apartment,Almagro,35.0,2171.43,1.0
+644,apartment,Barrio Norte,165.0,2393.94,4.0
+645,apartment,Caballito,52.0,2615.38,2.0
+646,apartment,Caballito,25.0,3100.0,1.0
+647,apartment,Villa Urquiza,41.0,2178.05,1.0
+648,apartment,Palermo,47.0,4361.7,2.0
+649,apartment,Villa Crespo,39.0,2205.13,2.0
+650,apartment,Caballito,146.0,2159.85,2.0
+651,apartment,Palermo,60.0,2833.33,2.0
+652,apartment,Tribunales,30.0,2633.33,1.0
+653,apartment,San Telmo,41.0,3296.79,2.0
+654,apartment,Balvanera,21.0,2476.19,1.0
+655,apartment,Puerto Madero,70.0,6428.57,2.0
+656,apartment,Villa Crespo,100.0,2000.0,3.0
+657,apartment,Puerto Madero,80.0,5375.0,3.0
+658,apartment,Floresta,110.0,1172.73,3.0
+659,apartment,Villa Urquiza,62.0,3000.0,2.0
+660,apartment,San Telmo,176.0,1761.36,4.0
+661,apartment,Caballito,42.0,2619.05,2.0
+662,apartment,Centro / Microcentro,35.0,2071.43,1.0
+663,apartment,Recoleta,62.0,2822.58,2.0
+664,apartment,Palermo,57.0,2368.42,2.0
+665,apartment,Constitución,74.0,1067.57,3.0
+666,apartment,Belgrano,110.0,3263.64,3.0
+667,apartment,Palermo,55.0,3363.64,1.0
+668,apartment,San Cristobal,118.0,1440.68,3.0
+669,apartment,Recoleta,38.0,2368.42,1.0
+670,apartment,Saavedra,71.0,2253.52,2.0
+671,apartment,San Telmo,93.0,2010.75,3.0
+672,apartment,Constitución,162.0,864.2,4.0
+673,apartment,Barrio Norte,59.0,3813.56,2.0
+674,apartment,Recoleta,67.0,4552.24,3.0
+675,apartment,Palermo,64.0,3031.25,3.0
+676,apartment,San Telmo,43.0,1832.61,2.0
+677,apartment,Chacarita,40.0,1975.0,2.0
+678,apartment,Flores,33.0,2484.85,1.0
+679,apartment,Monte Castro,122.0,1491.8,3.0
+680,apartment,Balvanera,145.0,1689.66,4.0
+681,apartment,San Cristobal,50.0,2300.0,2.0
+682,apartment,Belgrano,51.0,3559.16,2.0
+683,apartment,Retiro,236.0,5296.61,3.0
+684,apartment,Boedo,30.0,1106.67,1.0
+685,apartment,Monserrat,475.0,547.37,6.0
+686,apartment,Caballito,55.0,2181.82,2.0
+687,apartment,Barrio Norte,128.0,2109.38,4.0
+688,apartment,Villa del Parque,26.0,2500.0,1.0
+689,apartment,Belgrano,164.0,3536.59,4.0
+690,apartment,Belgrano,56.0,3125.0,2.0
+691,apartment,Palermo,40.0,2750.0,2.0
+692,apartment,Villa Luro,77.0,2233.77,3.0
+693,apartment,Recoleta,78.0,2538.46,3.0
+694,apartment,Puerto Madero,130.0,5769.23,4.0
+695,apartment,Palermo,67.0,2686.57,3.0
+696,apartment,Belgrano,430.0,5790.7,5.0
+697,apartment,Villa Crespo,35.0,2972.23,3.0
+698,apartment,Saavedra,70.0,2828.57,2.0
+699,apartment,Belgrano,148.0,2702.7,5.0
+700,apartment,Palermo,55.0,3181.82,2.0
+701,apartment,Palermo,85.0,1988.24,2.0
+702,apartment,Nuñez,49.0,2266.24,2.0
+703,apartment,Almagro,75.0,1600.0,3.0
+704,apartment,Flores,42.0,2119.05,2.0
+705,apartment,Caballito,43.0,1562.63,1.0
+706,apartment,Belgrano,70.0,2600.0,1.0
+707,apartment,Balvanera,90.0,1944.44,4.0
+708,apartment,Caballito,44.0,2227.27,3.0
+709,apartment,Flores,79.0,2392.41,4.0
+710,apartment,Caballito,52.0,2653.85,2.0
+711,apartment,Almagro,87.0,1735.63,3.0
+712,apartment,Flores,60.0,1916.67,3.0
+713,apartment,Villa Crespo,110.0,2136.36,4.0
+714,apartment,Recoleta,71.0,5801.58,2.0
+715,apartment,Saavedra,70.0,2642.86,3.0
+716,apartment,Palermo,43.0,3255.81,2.0
+717,apartment,Palermo,59.0,3635.59,3.0
+718,apartment,San Telmo,54.0,2520.33,2.0
+719,apartment,Palermo,88.0,5000.0,3.0
+720,apartment,Nuñez,82.0,2317.07,2.0
+721,apartment,San Nicolás,69.0,1739.13,3.0
+722,apartment,Mataderos,111.0,1756.76,3.0
+723,apartment,Villa Crespo,128.0,1839.15,3.0
+724,apartment,Saavedra,51.0,2627.45,2.0
+725,apartment,Palermo,66.0,3636.36,2.0
+726,apartment,Coghlan,39.0,2820.51,1.0
+727,apartment,Palermo,160.0,4875.0,4.0
+728,apartment,San Nicolás,32.0,2031.25,1.0
+729,apartment,Villa del Parque,45.0,1933.33,2.0
+730,apartment,Barrio Norte,41.0,3187.51,1.0
+731,apartment,Almagro,75.0,2401.39,3.0
+732,apartment,Recoleta,116.0,2715.52,3.0
+733,apartment,Belgrano,173.0,1445.09,4.0
+734,apartment,Caballito,125.0,3200.0,4.0
+735,apartment,Caballito,37.0,2550.0,1.0
+736,apartment,Congreso,118.0,1779.66,3.0
+737,apartment,Recoleta,29.0,3275.86,1.0
+738,apartment,Belgrano,36.0,3825.0,1.0
+739,apartment,Puerto Madero,128.0,5226.56,3.0
+740,apartment,Belgrano,45.0,2888.89,1.0
+741,apartment,Colegiales,60.0,2250.0,3.0
+742,apartment,San Telmo,89.0,1871.26,1.0
+743,apartment,Monserrat,37.0,2378.38,1.0
+744,apartment,Villa Urquiza,59.0,2851.71,2.0
+745,apartment,Villa Urquiza,59.0,2046.56,3.0
+746,apartment,Caballito,49.0,3432.65,1.0
+747,apartment,Recoleta,237.0,2911.39,4.0
+748,apartment,Villa Urquiza,76.0,2763.16,3.0
+749,apartment,Coghlan,35.0,2542.86,1.0
+750,apartment,Belgrano,90.0,3529.2,3.0
+751,apartment,Paternal,40.0,1712.5,1.0
+752,apartment,Balvanera,67.0,2089.55,3.0
+753,apartment,Villa Luro,78.0,2320.51,3.0
+754,apartment,Almagro,113.0,2212.39,3.0
+755,apartment,Caballito,33.0,3033.33,1.0
+756,apartment,Belgrano,50.0,3011.58,2.0
+757,apartment,Parque Patricios,108.0,2268.52,4.0
+758,apartment,Villa Crespo,76.0,2039.47,4.0
+759,apartment,Belgrano,157.0,2611.46,4.0
+760,apartment,Centro / Microcentro,43.0,1922.09,1.0
+761,apartment,Recoleta,154.0,2590.91,4.0
+762,apartment,Almagro,26.0,2226.92,1.0
+763,apartment,Flores,95.0,2200.0,3.0
+764,apartment,Caballito,45.0,2885.51,2.0
+765,apartment,Villa Crespo,49.0,2916.33,2.0
+766,apartment,Saavedra,36.0,2222.22,1.0
+767,apartment,Caballito,40.0,2062.48,1.0
+768,apartment,Villa Urquiza,37.0,2655.56,1.0
+769,apartment,Belgrano,30.0,3156.67,1.0
+770,apartment,Flores,34.0,2147.06,1.0
+771,apartment,Boedo,45.0,1844.44,2.0
+772,apartment,Recoleta,230.0,2913.04,7.0
+773,apartment,Villa Crespo,40.0,2032.5,1.0
+774,apartment,Belgrano,45.0,3111.11,1.0
+775,apartment,Belgrano,200.0,2875.0,6.0
+776,apartment,Balvanera,80.0,1850.0,4.0
+777,apartment,Villa Crespo,49.0,2591.31,2.0
+778,apartment,Recoleta,52.0,3557.69,2.0
+779,apartment,Recoleta,230.0,3630.43,4.0
+780,apartment,Belgrano,350.0,2100.0,5.0
+781,apartment,Parque Chacabuco,49.0,1795.92,2.0
+782,apartment,Palermo,43.0,2790.7,2.0
+783,apartment,Palermo,28.0,3525.0,1.0
+784,apartment,Belgrano,238.0,3109.24,4.0
+785,apartment,Palermo,38.0,2815.79,1.0
+786,apartment,Monserrat,92.0,1728.26,4.0
+787,apartment,Flores,56.0,1875.0,1.0
+788,apartment,Palermo,40.0,2875.0,3.0
+789,apartment,Monserrat,35.0,2485.71,1.0
+790,apartment,Nuñez,74.0,5067.57,3.0
+791,apartment,Congreso,73.0,1849.32,5.0
+792,apartment,San Nicolás,39.0,2310.0,1.0
+793,apartment,Villa Pueyrredón,74.0,1918.92,3.0
+794,apartment,Monserrat,108.0,1527.78,4.0
+795,apartment,Belgrano,29.0,3174.83,1.0
+796,apartment,Paternal,100.0,1300.0,4.0
+797,apartment,San Telmo,54.0,2895.11,3.0
+798,apartment,Palermo,149.0,2114.09,4.0
+799,apartment,Palermo,155.0,4064.52,4.0
+800,apartment,Balvanera,36.0,2000.0,2.0
+801,apartment,Balvanera,40.0,1875.0,2.0
+802,apartment,Balvanera,106.0,1311.32,4.0
+803,apartment,Belgrano,42.0,2719.29,2.0
+804,apartment,Palermo,180.0,2194.44,4.0
+805,apartment,Belgrano,100.0,3500.0,5.0
+806,apartment,Palermo,100.0,3000.0,3.0
+807,apartment,San Telmo,35.0,2335.97,1.0
+808,apartment,Barrio Norte,70.0,2828.57,3.0
+809,apartment,Villa Urquiza,38.0,2210.53,2.0
+810,apartment,Belgrano,36.0,3027.78,1.0
+811,apartment,Belgrano,98.0,3477.62,3.0
+812,apartment,San Cristobal,59.0,2455.93,2.0
+813,apartment,San Nicolás,56.0,1964.29,4.0
+814,apartment,Almagro,54.0,2222.22,3.0
+815,apartment,Villa Crespo,40.0,2625.0,2.0
+816,apartment,Palermo,41.0,3609.76,2.0
+817,apartment,Parque Centenario,76.0,2039.47,4.0
+818,apartment,Palermo,135.0,3185.19,4.0
+819,apartment,Belgrano,75.0,2600.0,3.0
+820,apartment,Palermo,37.0,2429.73,1.0
+821,apartment,Villa Crespo,66.0,2500.0,3.0
+822,apartment,Constitución,39.0,1530.13,1.0
+823,apartment,Once,40.0,2812.5,2.0
+824,apartment,Flores,72.0,2361.11,3.0
+825,apartment,Recoleta,134.0,2388.06,5.0
+826,apartment,Palermo,50.0,2660.0,2.0
+827,apartment,Palermo,32.0,3212.5,3.0
+828,apartment,Nuñez,52.0,2788.46,1.0
+829,apartment,Palermo,31.0,2741.94,2.0
+830,apartment,Saavedra,67.0,1567.16,1.0
+831,apartment,Recoleta,76.0,3105.26,3.0
+832,apartment,Barrio Norte,56.0,4196.43,2.0
+833,apartment,Boedo,43.0,2395.35,2.0
+834,apartment,Retiro,90.0,2666.67,2.0
+835,apartment,Boca,38.0,2105.26,1.0
+836,apartment,San Telmo,34.0,2076.25,1.0
+837,apartment,Palermo,41.0,2658.54,2.0
+838,apartment,Barrio Norte,59.0,3661.02,2.0
+839,apartment,Palermo,74.0,4716.22,2.0
+840,apartment,Barrio Norte,150.0,5033.33,4.0
+841,apartment,Palermo,180.0,3555.56,4.0
+842,apartment,San Telmo,52.0,2566.92,2.0
+843,apartment,Palermo,130.0,4069.23,3.0
+844,apartment,Floresta,88.0,1340.91,4.0
+845,apartment,San Telmo,34.0,2081.42,1.0
+846,apartment,San Telmo,86.0,2190.58,3.0
+847,apartment,Caballito,45.0,2200.0,1.0
+848,apartment,Recoleta,122.0,2704.92,5.0
+849,apartment,Caballito,40.0,2200.0,2.0
+850,PH,Caballito,105.0,1695.24,3.0
+851,PH,Villa Pueyrredón,42.0,2357.14,2.0
+852,PH,Paternal,93.0,1129.03,4.0
+853,PH,Parque Avellaneda,59.0,1525.42,4.0
+854,PH,Liniers,150.0,1333.33,3.0
+855,PH,Barrio Norte,130.0,2076.92,4.0
+856,PH,San Telmo,40.0,1225.0,1.0
+857,PH,Villa Luro,150.0,986.67,4.0
+858,PH,Constitución,87.0,913.79,4.0
+859,PH,Flores,77.0,2272.73,3.0
+860,PH,San Cristobal,51.0,1862.75,3.0
+861,PH,Palermo,65.0,2915.38,2.0
+862,PH,Villa del Parque,172.0,1715.12,4.0
+863,PH,Villa Crespo,106.0,1933.96,3.0
+864,PH,Belgrano,50.0,3000.0,2.0
+865,PH,Flores,20.0,4350.0,3.0
+866,PH,Mataderos,51.0,2098.04,2.0
+867,PH,Barracas,95.0,926.32,4.0
+868,PH,Barracas,124.0,1604.84,6.0
+869,PH,San Telmo,146.0,1356.16,6.0
+870,PH,San Cristobal,370.0,716.22,7.0
+871,PH,Palermo,103.0,3689.32,5.0
+872,PH,Floresta,85.0,1529.41,4.0
+873,PH,Saavedra,49.0,2855.1,2.0
+874,PH,Barracas,100.0,1700.0,4.0
+875,PH,Belgrano,157.0,2420.38,5.0
+876,PH,Constitución,82.0,1567.07,4.0
+877,PH,Villa Real,50.0,1800.0,3.0
+878,PH,Caballito,43.0,2297.67,1.0
+879,PH,Villa del Parque,65.0,2000.0,3.0
+880,PH,San Cristobal,20.0,5900.0,3.0
+881,PH,Villa Crespo,105.0,2523.81,4.0
+882,PH,Villa Urquiza,69.0,1536.23,3.0
+883,PH,San Telmo,54.0,1648.15,2.0
+884,PH,Chacarita,95.0,1884.21,4.0
+885,PH,Caballito,237.0,1561.18,4.0
+886,PH,Palermo,90.0,2444.44,4.0
+887,PH,Constitución,250.0,840.0,3.0
+888,PH,Mataderos,20.0,2900.0,2.0
+889,PH,Mataderos,130.0,1146.15,3.0
+890,PH,Floresta,164.0,1250.0,5.0
+891,PH,Mataderos,205.0,1121.95,4.0
+892,PH,Balvanera,237.0,991.56,4.0
+893,PH,Caballito,110.0,1909.09,5.0
+894,PH,Floresta,151.0,1258.28,4.0
+895,PH,Villa Urquiza,185.0,1837.84,4.0
+896,PH,Parque Chacabuco,119.0,1403.36,3.0
+897,PH,Caballito,103.0,1922.33,3.0
+898,PH,Villa Pueyrredón,185.0,1216.22,3.0
+899,PH,San Telmo,274.0,1423.36,6.0
+900,PH,Liniers,192.0,765.62,3.0
+901,PH,Liniers,100.0,1600.0,3.0
+902,PH,San Cristobal,170.0,1382.35,3.0
+903,PH,Villa Crespo,108.0,1435.19,3.0
+904,PH,Monte Castro,20.0,4775.0,3.0
+905,PH,San Cristobal,200.0,1100.0,6.0
+906,PH,Balvanera,228.0,1267.54,4.0
+907,PH,Villa Pueyrredón,108.0,1564.81,3.0
+908,PH,Villa Crespo,76.0,2092.11,4.0
+909,PH,Paternal,52.0,1730.77,3.0
+910,PH,Boca,86.0,1337.21,3.0
+911,PH,Palermo,90.0,3111.11,3.0
+912,PH,Belgrano,264.0,1496.21,4.0
+913,PH,San Cristobal,48.0,2000.0,3.0
+914,PH,Villa del Parque,230.0,1217.39,5.0
+915,PH,Villa Urquiza,183.0,1639.34,5.0
+916,PH,Villa del Parque,90.0,1333.33,3.0
+917,PH,Mataderos,100.0,1180.0,3.0
+918,PH,Monte Castro,260.0,884.62,4.0
+919,PH,Villa Real,40.0,2150.0,2.0
+920,PH,Barracas,38.0,1763.16,2.0
+921,PH,Pompeya,142.0,950.7,6.0
+922,PH,Flores,155.0,1451.61,7.0
+923,PH,Villa Devoto,42.0,2023.81,2.0
+924,PH,Palermo,362.0,1878.45,8.0
+925,PH,Villa Urquiza,165.0,1454.55,4.0
+926,PH,Villa Urquiza,115.0,2130.43,3.0
+927,PH,Monserrat,75.0,1866.67,3.0
+928,PH,Mataderos,64.0,1781.25,3.0
+929,PH,Palermo,65.0,2907.69,3.0
+930,PH,Palermo,59.0,2194.92,3.0
+931,PH,Recoleta,50.0,3780.0,2.0
+932,PH,Villa Crespo,215.0,1302.33,4.0
+933,PH,Coghlan,39.0,3205.13,1.0
+934,PH,Belgrano,52.0,2923.08,2.0
+935,PH,Almagro,22.0,2500.0,1.0
+936,PH,Villa del Parque,81.0,2222.22,4.0
+937,PH,Villa Pueyrredón,130.0,3323.08,4.0
+938,PH,Palermo,234.0,1482.91,4.0
+939,PH,Mataderos,110.0,1681.82,3.0
+940,PH,Villa Pueyrredón,500.0,1400.0,12.0
+941,PH,Liniers,120.0,2250.0,4.0
+942,PH,Coghlan,120.0,1916.67,3.0
+943,PH,Villa Luro,38.0,2236.84,2.0
+944,PH,Villa del Parque,254.0,1161.42,4.0
+945,PH,Palermo,73.0,2054.79,3.0
+946,PH,Caballito,34.0,1617.65,2.0
+947,PH,Flores,59.0,1525.42,4.0
+948,PH,Caballito,61.0,2377.05,3.0
+949,PH,Parque Patricios,88.0,1420.45,4.0
+950,PH,Barrio Norte,70.0,2071.43,2.0
+951,PH,Mataderos,60.0,1925.0,3.0
+952,PH,Villa General Mitre,54.0,1888.89,3.0
+953,PH,Constitución,450.0,931.11,10.0
+954,PH,Mataderos,36.0,2138.89,2.0
+955,PH,Colegiales,150.0,1900.0,5.0
+956,PH,Villa Luro,125.0,1112.0,4.0
+957,PH,Liniers,66.0,1636.36,2.0
+958,PH,Coghlan,96.0,2656.25,3.0
+959,PH,Villa Crespo,120.0,1816.67,5.0
+960,PH,Villa Lugano,80.0,812.5,2.0
+961,PH,Mataderos,211.0,639.81,5.0
+962,PH,Villa Pueyrredón,185.0,1216.22,4.0
+963,PH,Mataderos,80.0,1025.0,3.0
+964,PH,Palermo,130.0,1615.38,3.0
+965,PH,Liniers,197.0,811.68,4.0
+966,PH,Villa Crespo,103.0,1737.86,3.0
+967,PH,Paternal,65.0,2000.0,3.0
+968,PH,Almagro,297.0,1313.13,5.0
+969,PH,Saavedra,120.0,1916.67,3.0
+970,PH,Villa Devoto,62.0,2048.39,3.0
+971,PH,Balvanera,360.0,888.89,6.0
+972,PH,Caballito,85.0,1682.35,3.0
+973,PH,Palermo,40.0,2250.0,3.0
+974,PH,Palermo,340.0,2044.12,7.0
+975,PH,Floresta,78.0,1537.18,3.0
+976,PH,Chacarita,136.0,2058.82,3.0
+977,PH,Paternal,150.0,1866.67,7.0
+978,PH,Barrio Norte,68.0,3455.88,3.0
+979,PH,Villa Lugano,101.0,1683.17,4.0
+980,PH,Belgrano,60.0,2650.0,2.0
+981,PH,Las Cañitas,55.0,2872.73,2.0
+982,PH,Monte Castro,165.0,1206.06,3.0
+983,PH,Floresta,110.0,2000.0,4.0
+984,PH,Boca,57.0,1491.23,3.0
+985,PH,Coghlan,48.0,2687.5,2.0
+986,PH,Palermo,264.0,1496.21,4.0
+987,PH,Colegiales,254.0,1535.43,4.0
+988,PH,Constitución,20.0,5375.0,3.0
+989,PH,San Cristobal,104.0,1826.92,4.0
+990,PH,Parque Chas,115.0,2434.78,4.0
+991,PH,Villa Devoto,90.0,2222.22,3.0
+992,PH,Colegiales,154.0,1740.26,4.0
+993,PH,Villa Crespo,60.0,1983.33,2.0
+994,PH,Barrio Norte,66.0,3030.3,3.0
+995,PH,Liniers,67.0,2238.81,3.0
+996,PH,Villa Santa Rita,104.0,1500.0,3.0
+997,PH,Villa Lugano,95.0,1000.0,3.0
+998,PH,Belgrano,170.0,2058.82,4.0
+999,PH,Palermo,189.0,2222.22,4.0
+1000,PH,Boedo,141.0,1269.5,3.0
+1001,PH,Flores,42.0,2309.52,2.0
+1002,PH,Caballito,44.0,2954.55,4.0
+1003,PH,Villa del Parque,65.0,1676.92,3.0
+1004,PH,Villa Crespo,95.0,1884.21,4.0
+1005,PH,Villa Pueyrredón,85.0,2647.06,4.0
+1006,PH,Villa Devoto,84.0,3095.24,4.0
+1007,PH,San Telmo,170.0,1282.35,5.0
+1008,PH,Chacarita,254.0,1535.43,4.0
+1009,PH,Paternal,110.0,2045.45,4.0
+1010,PH,Palermo,90.0,2888.89,4.0
+1011,PH,Belgrano,150.0,1793.33,3.0
+1012,PH,Flores,122.0,2008.2,5.0
+1013,PH,Villa Devoto,87.0,1724.14,3.0
+1014,PH,Almagro,91.0,2307.69,4.0
+1015,PH,Flores,164.0,1195.12,4.0
+1016,PH,Floresta,67.0,1641.79,3.0
+1017,PH,Almagro,280.0,1053.57,6.0
+1018,PH,Mataderos,70.0,1400.0,3.0
+1019,PH,Villa Luro,157.0,1369.43,4.0
+1020,PH,Constitución,28.0,1785.71,2.0
+1021,PH,Villa Pueyrredón,59.0,1864.41,2.0
+1022,PH,Parque Chacabuco,55.0,2272.73,3.0
+1023,PH,Flores,190.0,1000.0,5.0
+1024,PH,Barracas,56.0,1767.86,3.0
+1025,PH,Belgrano,107.0,2514.02,4.0
+1026,PH,Belgrano,110.0,2318.18,6.0
+1027,PH,Palermo,264.0,1496.21,5.0
+1028,PH,Parque Patricios,90.0,1666.67,3.0
+1029,PH,Palermo,67.0,2082.09,3.0
+1030,PH,Liniers,200.0,1075.0,4.0
+1031,PH,Parque Avellaneda,65.0,1523.08,2.0
+1032,PH,Monserrat,169.0,946.75,1.0
+1033,PH,Saavedra,64.0,2164.06,3.0
+1034,PH,Flores,111.0,855.86,3.0
+1035,PH,Caballito,180.0,1416.67,5.0
+1036,PH,Flores,471.0,594.48,6.0
+1037,PH,San Cristobal,97.0,1546.39,5.0
+1038,PH,Villa Crespo,95.0,1884.21,4.0
+1039,PH,Almagro,85.0,1941.18,4.0
+1040,PH,Velez Sarsfield,157.0,777.07,1.0
+1041,PH,Constitución,80.0,975.0,3.0
+1042,PH,Balvanera,260.0,711.54,5.0
+1043,PH,Balvanera,257.0,1536.96,6.0
+1044,PH,Mataderos,135.0,1148.15,5.0
+1045,PH,Saavedra,300.0,1566.67,5.0
+1046,PH,Villa Crespo,71.0,2183.1,1.0
+1047,PH,Versalles,120.0,1408.33,4.0
+1048,PH,Flores,85.0,1641.18,2.0
+1049,PH,Villa Urquiza,140.0,1871.43,3.0
+1050,PH,Palermo,39.0,2820.51,2.0
+1051,PH,Balvanera,161.0,1155.28,6.0
+1052,PH,Palermo,64.0,2687.5,3.0
+1053,PH,Almagro,130.0,1576.92,5.0
+1054,PH,Villa Lugano,52.0,1875.0,2.0
+1055,PH,Caballito,51.0,3294.12,3.0
+1056,PH,Flores,123.0,1788.62,4.0
+1057,PH,Saavedra,143.0,1188.11,3.0
+1058,PH,Liniers,60.0,2316.67,3.0
+1059,PH,Liniers,80.0,1500.0,4.0
+1060,PH,Saavedra,43.0,2558.14,2.0
+1061,PH,Parque Patricios,70.0,3142.86,5.0
+1062,PH,Palermo,72.0,2597.22,2.0
+1063,PH,Flores,50.0,1640.0,3.0
+1064,PH,Barracas,54.0,2138.89,3.0
+1065,PH,Villa Pueyrredón,120.0,1833.33,1.0
+1066,PH,Constitución,130.0,1069.23,3.0
+1067,PH,Almagro,130.0,2153.85,5.0
+1068,PH,Palermo,290.0,1448.28,5.0
+1069,PH,Constitución,100.0,1200.0,4.0
+1070,PH,Villa Devoto,110.0,1772.73,3.0
+1071,PH,Villa Real,150.0,1666.67,4.0
+1072,PH,Abasto,160.0,1000.0,4.0
+1073,PH,Palermo,130.0,1346.15,3.0
+1074,PH,Monte Castro,82.0,1341.46,2.0
+1075,PH,Palermo,72.0,2597.22,3.0
+1076,PH,Palermo,62.0,2225.81,3.0
+1077,PH,Almagro,199.0,1306.53,5.0
+1078,PH,San Telmo,1183.0,1090.45,13.0
+1079,PH,Boca,93.0,1396.77,4.0
+1080,PH,Almagro,91.0,1648.35,3.0
+1081,PH,Saavedra,42.0,2333.33,2.0
+1082,PH,Mataderos,211.0,639.81,1.0
+1083,PH,Villa Urquiza,236.0,1144.07,4.0
+1084,PH,Parque Patricios,135.0,814.81,3.0
+1085,PH,Almagro,34.0,2705.88,1.0
+1086,PH,Villa Crespo,55.0,2090.91,2.0
+1087,PH,Villa Devoto,112.0,1205.36,3.0
+1088,PH,Villa General Mitre,139.0,2223.02,4.0
+1089,PH,Chacarita,54.0,2407.41,3.0
+1090,PH,Parque Patricios,102.0,1813.73,3.0
+1091,PH,Caballito,100.0,2400.0,4.0
+1092,PH,Velez Sarsfield,157.0,777.07,4.0
+1093,PH,Villa Crespo,90.0,1610.0,3.0
+1094,PH,Monserrat,177.0,1197.74,3.0
+1095,PH,Pompeya,150.0,1466.67,4.0
+1096,PH,Caballito,105.0,1695.24,3.0
+1097,PH,Villa Urquiza,61.0,1393.44,2.0
+1098,PH,Floresta,30.0,2466.67,2.0
+1099,PH,Almagro,30.0,2316.67,2.0
+1100,PH,Villa del Parque,70.0,2357.14,2.0
+1101,PH,Versalles,20.0,3700.0,1.0
+1102,PH,Mataderos,76.0,2105.26,2.0
+1103,PH,Coghlan,84.0,1547.62,4.0
+1104,PH,Villa del Parque,76.0,1710.53,3.0
+1105,PH,Coghlan,116.0,1982.76,4.0
+1106,PH,Villa del Parque,56.0,1589.29,2.0
+1107,PH,Floresta,110.0,2000.0,4.0
+1108,PH,Recoleta,34.0,3176.47,2.0
+1109,PH,Palermo,240.0,1875.0,6.0
+1110,PH,Mataderos,160.0,1093.75,5.0
+1111,PH,Boca,115.0,956.52,5.0
+1112,PH,Almagro,213.0,1924.88,6.0
+1113,PH,Liniers,55.0,1145.45,2.0
+1114,PH,Flores,173.0,1242.77,4.0
+1115,PH,Caballito,92.0,2282.61,4.0
+1116,PH,Villa Crespo,280.0,1642.86,6.0
+1117,PH,Villa Luro,76.0,1973.68,3.0
+1118,PH,Flores,36.0,2277.78,2.0
+1119,PH,Caballito,127.0,1889.76,4.0
+1120,PH,Villa del Parque,160.0,2062.5,4.0
+1121,PH,Villa Luro,117.0,1410.26,4.0
+1122,PH,Paternal,55.0,1909.09,2.0
+1123,PH,Parque Chacabuco,43.0,2209.3,3.0
+1124,PH,Caballito,54.0,1888.89,3.0
+1125,PH,Recoleta,70.0,2357.14,3.0
+1126,PH,Villa Crespo,103.0,151.37,4.0
+1127,PH,Villa Santa Rita,127.0,1968.5,5.0
+1128,PH,Chacarita,140.0,1342.86,3.0
+1129,PH,Mataderos,35.0,2428.57,1.0
+1130,PH,Mataderos,130.0,1192.31,3.0
+1131,PH,Caballito,110.0,1163.64,3.0
+1132,PH,Flores,209.0,1889.95,5.0
+1133,PH,Villa Crespo,120.0,2833.33,4.0
+1134,PH,Balvanera,164.0,1585.37,4.0
+1135,PH,Floresta,250.0,1360.0,7.0
+1136,PH,Belgrano,120.0,1916.67,3.0
+1137,PH,Caballito,101.0,1900.99,4.0
+1138,PH,Barracas,169.0,1076.92,4.0
+1139,PH,Villa Crespo,180.0,2111.11,2.0
+1140,PH,Barracas,68.0,1250.0,2.0
+1141,PH,Velez Sarsfield,106.0,1179.25,3.0
+1142,PH,Villa Devoto,36.0,2750.0,2.0
+1143,PH,Boca,102.0,1391.18,4.0
+1144,PH,Boedo,230.0,1043.48,5.0
+1145,PH,Belgrano,330.0,1754.55,6.0
+1146,PH,Parque Avellaneda,100.0,1800.0,4.0
+1147,PH,Saavedra,49.0,2855.1,2.0
+1148,PH,Mataderos,57.0,2017.54,2.0
+1149,PH,Caballito,108.0,1944.44,3.0
+1150,PH,Caballito,303.0,940.59,6.0
+1151,PH,Villa Lugano,92.0,1000.0,3.0
+1152,PH,Villa Crespo,181.0,1430.94,5.0
+1153,PH,Constitución,20.0,6750.0,5.0
+1154,PH,Liniers,50.0,1720.0,2.0
+1155,PH,Villa General Mitre,65.0,2000.0,3.0
+1156,PH,Boedo,72.0,1527.78,3.0
+1157,PH,Saavedra,43.0,2558.14,1.0
+1158,PH,Liniers,82.0,1707.32,3.0
+1159,PH,Barrio Norte,31.0,2354.84,1.0
+1160,PH,Caballito,135.0,1481.48,4.0
+1161,PH,Liniers,230.0,913.04,4.0
+1162,PH,Villa Crespo,67.0,2731.34,3.0
+1163,PH,Barracas,212.0,872.64,4.0
+1164,PH,Flores,54.0,1888.89,3.0
+1165,PH,Mataderos,100.0,890.0,3.0
+1166,PH,Villa Devoto,58.0,2327.59,3.0
+1167,PH,Liniers,280.0,714.29,6.0
+1168,PH,Almagro,80.0,1062.5,3.0
+1169,PH,Villa Crespo,140.0,2357.14,4.0
+1170,PH,Congreso,60.0,1500.0,2.0
+1171,PH,Chacarita,95.0,2726.32,4.0
+1172,PH,Villa Lugano,90.0,1055.56,3.0
+1173,PH,Barracas,165.0,721.21,4.0
+1174,PH,Flores,83.0,2036.14,3.0
+1175,PH,Floresta,141.0,1666.67,5.0
+1176,PH,Saavedra,130.0,1769.23,4.0
+1177,PH,Almagro,65.0,2076.92,4.0
+1178,PH,Villa Crespo,84.0,1928.57,3.0
+1179,PH,Flores,20.0,4750.0,3.0
+1180,PH,Balvanera,40.0,1875.0,2.0
+1181,PH,Caballito,240.0,1329.17,4.0
+1182,PH,Agronomía,129.0,1782.95,5.0
+1183,PH,Liniers,190.0,1147.37,4.0
+1184,PH,Villa Urquiza,53.0,2245.28,3.0
+1185,PH,Villa Luro,54.0,2407.41,3.0
+1186,PH,Nuñez,90.0,1655.56,4.0
+1187,PH,Villa Urquiza,230.0,1195.65,5.0
+1188,PH,Floresta,102.0,1223.53,4.0
+1189,PH,Flores,99.0,898.99,3.0
+1190,PH,Parque Patricios,70.0,2050.0,3.0
+1191,PH,Monte Castro,61.0,1967.21,2.0
+1192,PH,Abasto,120.0,1708.33,5.0
+1193,PH,Parque Patricios,78.0,1692.31,3.0
+1194,PH,Villa Urquiza,152.0,2164.47,5.0
+1195,PH,Liniers,82.0,1707.32,3.0
+1196,PH,Versalles,119.0,1411.76,4.0
+1197,PH,Almagro,143.0,1748.25,4.0
+1198,PH,Liniers,73.0,1917.81,2.0
+1199,PH,Floresta,54.0,2166.67,3.0
+1200,PH,Parque Chacabuco,160.0,1281.25,4.0
+1201,PH,Villa Crespo,27.0,2592.59,1.0
+1202,PH,Velez Sarsfield,49.0,1632.65,2.0
+1203,PH,Paternal,242.0,1446.28,5.0
+1204,PH,Almagro,80.0,1562.5,3.0
+1205,PH,Palermo,95.0,2315.79,4.0
+1206,PH,Mataderos,85.0,1800.0,3.0
+1207,PH,Villa Real,110.0,1500.0,3.0
+1208,PH,Belgrano,264.0,1496.21,5.0
+1209,PH,Villa Luro,157.0,1369.43,4.0
+1210,PH,Saavedra,110.0,2272.73,4.0
+1211,PH,Villa Lugano,52.0,1278.06,3.0
+1212,PH,Villa Crespo,37.0,2297.3,2.0
+1213,PH,Parque Patricios,80.0,1175.0,3.0
+1214,PH,Barracas,122.0,1147.54,4.0
+1215,PH,Villa Luro,130.0,1846.15,3.0
+1216,PH,San Telmo,161.0,1850.93,5.0
+1217,PH,Saavedra,61.0,2426.23,3.0
+1218,PH,Villa Lugano,154.0,1162.34,4.0
+1219,PH,Villa Real,75.0,2080.0,3.0
+1220,PH,Parque Avellaneda,84.0,1547.62,3.0
+1221,PH,Floresta,59.0,1237.29,2.0
+1222,PH,Barrio Norte,141.0,3333.33,4.0
+1223,PH,Mataderos,105.0,904.76,4.0
+1224,PH,Belgrano,104.0,3153.85,4.0
+1225,PH,Barracas,110.0,1072.73,4.0
+1226,PH,Mataderos,50.0,1600.0,2.0
+1227,PH,Palermo,46.0,2000.0,2.0
+1228,PH,Velez Sarsfield,147.0,1360.54,4.0
+1229,PH,Villa Real,125.0,1272.0,3.0
+1230,PH,Liniers,45.0,2177.78,2.0
+1231,PH,Caballito,159.0,2182.39,4.0
+1232,PH,Mataderos,65.0,1984.62,3.0
+1233,PH,Villa Santa Rita,20.0,5750.0,2.0
+1234,PH,Villa del Parque,254.0,1161.42,4.0
+1235,PH,Parque Chacabuco,79.0,1417.72,3.0
+1236,PH,Boedo,228.0,1267.54,6.0
+1237,PH,Velez Sarsfield,260.0,1153.85,4.0
+1238,PH,Liniers,95.0,1789.47,3.0
+1239,PH,Flores,160.0,937.5,5.0
+1240,PH,Caballito,56.0,2625.0,4.0
+1241,PH,Flores,65.0,1613.85,3.0
+1242,PH,Villa Luro,76.0,1447.37,2.0
+1243,PH,Nuñez,162.0,3580.25,8.0
+1244,PH,Mataderos,37.0,2837.84,2.0
+1245,PH,Almagro,230.0,1217.39,6.0
+1246,PH,Barracas,120.0,1125.0,6.0
+1247,PH,Flores,102.0,1362.75,4.0
+1248,PH,Velez Sarsfield,417.0,875.3,4.0
+1249,PH,Almagro,95.0,2315.79,4.0
+1250,PH,Colegiales,37.0,3027.03,2.0
+1251,PH,Floresta,142.0,1161.97,4.0
+1252,PH,Flores,54.0,1259.26,2.0
+1253,PH,Villa del Parque,44.0,1815.91,2.0
+1254,PH,Mataderos,37.0,2891.89,2.0
+1255,PH,San Cristobal,360.0,1055.56,8.0
+1256,PH,Flores,65.0,1861.54,3.0
+1257,PH,Abasto,70.0,2400.0,4.0
+1258,PH,Mataderos,67.0,1791.04,3.0
+1259,PH,Villa Lugano,96.0,937.5,3.0
+1260,PH,Flores,55.0,1581.82,3.0
+1261,PH,Boca,100.0,990.0,4.0
+1262,PH,Paternal,68.0,1911.76,2.0
+1263,PH,Palermo,300.0,1316.67,6.0
+1264,PH,Boca,139.0,1007.19,5.0
+1265,PH,Caballito,75.0,2373.33,3.0
+1266,PH,Villa Pueyrredón,120.0,1541.67,4.0
+1267,PH,Mataderos,105.0,1142.86,3.0
+1268,PH,Villa Crespo,82.0,1920.73,3.0
+1269,PH,Belgrano,106.0,2160.38,3.0
+1270,PH,Flores,145.0,1062.07,3.0
+1271,PH,Villa Urquiza,97.0,3195.88,5.0
+1272,PH,Saavedra,56.0,2232.14,4.0
+1273,PH,Mataderos,80.0,1062.5,2.0
+1274,PH,Villa Crespo,54.0,2035.19,2.0
+1275,PH,Liniers,76.0,1697.37,2.0
+1276,PH,Monte Castro,82.0,1365.85,2.0
+1277,PH,Villa Luro,78.0,1346.15,3.0
+1278,PH,Palermo,72.0,2597.22,3.0
+1279,PH,Villa Crespo,290.0,1344.83,5.0
+1280,PH,Liniers,40.0,1625.0,2.0
+1281,PH,Versalles,150.0,1133.33,4.0
+1282,PH,Villa Urquiza,117.0,1324.79,4.0
+1283,PH,Palermo,130.0,1576.92,5.0
+1284,PH,Colegiales,165.0,1454.55,4.0
+1285,PH,Chacarita,54.0,2407.41,3.0
+1286,PH,Colegiales,135.0,1992.59,4.0
+1287,PH,Saavedra,52.0,2557.69,2.0
+1288,PH,Liniers,226.0,1106.19,4.0
+1289,PH,Palermo,141.0,992.91,3.0
+1290,PH,Caballito,23.0,3630.43,1.0
+1291,PH,Villa del Parque,150.0,1860.0,4.0
+1292,PH,Villa Luro,97.0,1257.73,2.0
+1293,PH,Mataderos,260.0,500.0,7.0
+1294,PH,Chacarita,39.0,2179.49,2.0
+1295,PH,Caballito,324.0,1265.43,5.0
+1296,PH,Villa Lugano,48.0,1979.17,3.0
+1297,PH,San Cristobal,65.0,1846.15,3.0
+1298,PH,Mataderos,326.0,751.53,4.0
+1299,PH,Paternal,133.0,1428.57,3.0
+1300,PH,Villa Luro,76.0,2105.26,2.0
+1301,PH,Congreso,75.0,1866.67,3.0
+1302,PH,Villa Devoto,227.0,1035.24,3.0
+1303,PH,Villa Devoto,119.0,1176.47,3.0
+1304,PH,Palermo,51.0,2627.45,2.0
+1305,PH,Mataderos,185.0,1189.19,5.0
+1306,PH,Villa Devoto,57.0,1578.95,2.0
+1307,PH,Villa Urquiza,111.0,1531.53,3.0
+1308,PH,Almagro,200.0,1750.0,3.0
+1309,PH,Villa Crespo,192.0,1276.04,4.0
+1310,PH,Villa Crespo,59.0,2194.92,3.0
+1311,PH,Flores,60.0,1650.0,2.0
+1312,PH,Nuñez,150.0,1460.0,5.0
+1313,PH,Coghlan,20.0,6500.0,4.0
+1314,PH,San Cristobal,381.0,892.39,5.0
+1315,PH,Flores,164.0,1207.32,4.0
+1316,PH,Palermo,184.0,2445.65,5.0
+1317,PH,Versalles,55.0,2181.82,3.0
+1318,PH,Nuñez,82.0,2500.0,4.0
+1319,PH,Palermo,127.0,1259.84,2.0
+1320,PH,Villa Santa Rita,52.0,2403.85,2.0
+1321,PH,Floresta,85.0,1823.53,3.0
+1322,PH,San Cristobal,140.0,1464.29,4.0
+1323,PH,Mataderos,55.0,1581.82,2.0
+1324,PH,Liniers,73.0,1917.81,3.0
+1325,PH,Floresta,170.0,1705.88,4.0
+1326,PH,Villa Luro,102.0,1156.86,3.0
+1327,PH,Agronomía,83.0,2530.12,3.0
+1328,PH,Villa Devoto,100.0,2740.0,4.0
+1329,PH,Villa Lugano,170.0,1235.29,3.0
+1330,PH,Palermo,240.0,1458.33,5.0
+1331,PH,Villa del Parque,84.0,1964.29,4.0
+1332,PH,Caballito,170.0,1523.53,4.0
+1333,PH,Constitución,250.0,516.0,6.0
+1334,PH,Villa Lugano,98.0,1275.51,5.0
+1335,PH,Parque Patricios,90.0,1222.22,5.0
+1336,PH,Pompeya,176.0,1022.73,5.0
+1337,PH,Villa Devoto,37.0,2675.68,2.0
+1338,PH,Belgrano,50.0,2598.0,3.0
+1339,PH,Villa Urquiza,65.0,2684.62,3.0
+1340,PH,Paternal,48.0,2395.83,2.0
+1341,PH,Mataderos,55.0,1127.27,2.0
+1342,PH,Liniers,99.0,1282.83,2.0
+1343,PH,Balvanera,80.0,1312.5,3.0
+1344,PH,Floresta,88.0,1931.82,3.0
+1345,PH,Flores,168.0,982.14,3.0
+1346,PH,Almagro,126.0,1666.67,4.0
+1347,PH,Boedo,228.0,1267.54,5.0
+1348,PH,Coghlan,281.0,1637.01,4.0
+1349,PH,Parque Chacabuco,72.0,1805.56,2.0
+1350,PH,Parque Patricios,100.0,1699.0,3.0
+1351,PH,Nuñez,106.0,2594.34,5.0
+1352,PH,Floresta,20.0,5950.0,3.0
+1353,PH,Palermo,55.0,2363.64,2.0
+1354,PH,Villa Lugano,64.0,1484.38,3.0
+1355,PH,Palermo,53.0,2452.83,3.0
+1356,PH,San Telmo,183.0,1420.77,4.0
+1357,PH,San Telmo,287.0,1376.31,6.0
+1358,PH,San Cristobal,132.0,2265.15,5.0
+1359,PH,Flores,272.0,1047.79,5.0
+1360,PH,Paternal,195.0,1487.18,5.0
+1361,PH,Flores,85.0,1011.76,4.0
+1362,PH,Palermo,96.0,2812.5,4.0
+1363,PH,Floresta,220.0,1363.64,5.0
+1364,PH,San Cristobal,106.0,1603.77,4.0
+1365,PH,Villa Luro,60.0,2166.67,3.0
+1366,PH,San Nicolás,40.0,2750.0,1.0
+1367,PH,Palermo,59.0,2194.92,3.0
+1368,PH,Mataderos,125.0,1120.0,3.0
+1369,PH,Parque Avellaneda,184.0,1467.39,9.0
+1370,PH,Monte Castro,65.0,1615.38,2.0
+1371,PH,Parque Chacabuco,54.0,1407.41,2.0
+1372,PH,Pompeya,20.0,4350.0,3.0
+1373,PH,Floresta,150.0,1000.0,3.0
+1374,PH,Villa Crespo,230.0,1500.0,4.0
+1375,PH,Palermo,115.0,3295.65,3.0
+1376,PH,Recoleta,86.0,1732.56,2.0
+1377,PH,Nuñez,140.0,2135.71,3.0
+1378,PH,Nuñez,420.0,2333.33,8.0
+1379,PH,Barrio Norte,58.0,2241.38,2.0
+1380,PH,Pompeya,159.0,704.4,3.0
+1381,PH,Balvanera,43.0,1627.91,2.0
+1382,PH,Villa Real,65.0,2123.08,3.0
+1383,PH,Villa Urquiza,100.0,2490.0,3.0
+1384,PH,San Cristobal,20.0,4150.0,3.0
+1385,PH,Villa Pueyrredón,130.0,2915.38,4.0
+1386,PH,Villa Luro,120.0,1400.0,4.0
+1387,PH,Villa Pueyrredón,92.0,1934.78,3.0
+1388,PH,Villa Urquiza,115.0,2313.04,5.0
+1389,PH,Mataderos,260.0,692.31,5.0
+1390,PH,Villa Pueyrredón,33.0,2181.82,1.0
+1391,PH,Balvanera,79.0,1139.24,3.0
+1392,PH,Palermo,143.0,2307.69,4.0
+1393,PH,San Cristobal,122.0,1728.69,4.0
+1394,PH,Balvanera,56.0,2321.43,3.0
+1395,PH,Boedo,228.0,1267.54,4.0
+1396,PH,Villa Luro,117.0,1410.26,4.0
+1397,PH,Villa Luro,120.0,1375.0,4.0
+1398,PH,Flores,190.0,1000.0,6.0
+1399,PH,Floresta,54.0,1944.44,2.0
+1400,PH,Caballito,336.0,1755.95,4.0
+1401,PH,Flores,63.0,2206.35,3.0
+1402,PH,San Telmo,354.0,1115.82,6.0
+1403,PH,Mataderos,80.0,1375.0,3.0
+1404,PH,Barracas,90.0,1222.22,5.0
+1405,PH,Villa Urquiza,84.0,1726.19,3.0
+1406,PH,Mataderos,38.0,1631.58,2.0
+1407,PH,Palermo,52.0,2576.92,2.0
+1408,PH,Coghlan,47.0,3106.38,2.0
+1409,PH,Floresta,116.0,1137.93,3.0
+1410,PH,Flores,225.0,702.22,4.0
+1411,PH,Villa Lugano,110.0,1227.27,3.0
+1412,PH,Villa General Mitre,259.0,1042.47,4.0
+1413,PH,Villa Santa Rita,68.0,2308.82,3.0
+1414,PH,Villa del Parque,80.0,2025.0,4.0
+1415,PH,Palermo,360.0,2486.11,4.0
+1416,PH,Saavedra,47.0,2446.81,2.0
+1417,PH,Mataderos,46.0,1630.43,2.0
+1418,PH,Floresta,89.0,1679.78,5.0
+1419,PH,Velez Sarsfield,66.0,1666.67,3.0
+1420,PH,Flores,67.0,1164.18,1.0
+1421,PH,Villa Ortuzar,20.0,7000.0,4.0
+1422,PH,Colegiales,80.0,2375.0,3.0
+1423,PH,Palermo,62.0,2806.45,4.0
+1424,PH,Balvanera,160.0,1712.5,7.0
+1425,PH,Villa Crespo,60.0,2583.33,4.0
+1426,PH,Villa Crespo,227.0,1013.22,7.0
+1427,PH,Villa Pueyrredón,244.0,1844.26,6.0
+1428,PH,Liniers,74.0,945.95,3.0
+1429,PH,Palermo,41.0,2804.88,2.0
+1430,PH,Caballito,118.0,1822.03,4.0
+1431,PH,Barracas,274.0,1423.36,6.0
+1432,PH,Palermo,290.0,1827.59,6.0
+1433,PH,Liniers,190.0,773.68,3.0
+1434,PH,Villa del Parque,240.0,1000.0,6.0
+1435,PH,Villa Devoto,218.0,1055.05,4.0
+1436,PH,San Cristobal,20.0,4450.0,2.0
+1437,PH,Villa Real,90.0,1444.44,2.0
+1438,PH,Parque Avellaneda,40.0,1625.0,2.0
+1439,PH,Mataderos,44.0,1022.73,3.0
+1440,PH,Villa Crespo,76.0,2460.53,2.0
+1441,PH,Mataderos,68.0,1911.76,2.0
+1442,PH,Colegiales,51.0,2843.14,3.0
+1443,PH,Villa del Parque,48.0,1812.5,2.0
+1444,PH,Saavedra,94.0,2340.43,4.0
+1445,PH,Coghlan,52.0,2923.08,2.0
+1446,PH,Monte Castro,130.0,1384.62,4.0
+1447,PH,Belgrano,50.0,3000.0,2.0
+1448,PH,Pompeya,82.0,1646.34,4.0
+1449,PH,Flores,80.0,1312.5,4.0
+1450,PH,Almagro,105.0,2047.62,3.0
+1451,PH,Parque Patricios,190.0,1447.37,5.0
+1452,PH,Parque Patricios,213.0,1877.93,7.0
+1453,PH,Villa Crespo,20.0,6250.0,3.0
+1454,PH,Mataderos,78.0,1666.67,3.0
+1455,PH,Palermo,87.0,3298.85,3.0
+1456,PH,Palermo,140.0,1428.57,3.0
+1457,PH,Liniers,52.0,1596.15,2.0
+1458,PH,Villa General Mitre,124.0,2080.65,4.0
+1459,PH,Floresta,204.0,1053.92,1.0
+1460,PH,Flores,313.0,1006.39,4.0
+1461,PH,Floresta,90.0,2166.67,4.0
+1462,PH,Saavedra,156.0,2044.87,5.0
+1463,PH,Mataderos,55.0,1636.36,3.0
+1464,PH,Parque Avellaneda,77.0,1805.19,4.0
+1465,PH,Almagro,95.0,2315.79,4.0
+1466,PH,Liniers,185.0,918.92,4.0
+1467,PH,Monserrat,196.0,1112.24,4.0
+1468,PH,Villa Crespo,54.0,2407.41,3.0
+1469,PH,Villa Pueyrredón,201.0,1447.76,4.0
+1470,PH,Floresta,75.0,1666.67,4.0
+1471,PH,Flores,125.0,1800.0,5.0
+1472,PH,Palermo,70.0,2214.29,3.0
+1473,PH,Liniers,150.0,1233.33,5.0
+1474,PH,Mataderos,235.0,680.85,4.0
+1475,PH,Floresta,32.0,2000.0,2.0
+1476,PH,Mataderos,20.0,4750.0,2.0
+1477,PH,Floresta,86.0,930.23,4.0
+1478,PH,Coghlan,64.0,2734.38,3.0
+1479,PH,Villa Urquiza,84.0,2130.95,3.0
+1480,PH,Constitución,54.0,1648.15,2.0
+1481,PH,Mataderos,100.0,1280.0,4.0
+1482,PH,Recoleta,72.0,2902.78,4.0
+1483,PH,Nuñez,51.0,4392.16,3.0
+1484,PH,Flores,20.0,4450.0,3.0
+1485,PH,Colegiales,165.0,1454.55,5.0
+1486,PH,Parque Centenario,60.0,2583.33,4.0
+1487,PH,Villa Devoto,149.0,1275.17,4.0
+1488,PH,Villa Lugano,90.0,722.22,3.0
+1489,PH,Colegiales,100.0,2300.0,2.0
+1490,PH,Recoleta,115.0,2591.3,5.0
+1491,PH,Belgrano,61.0,2934.43,3.0
+1492,PH,Villa Urquiza,95.0,2936.84,4.0
+1493,PH,Balvanera,228.0,1267.54,6.0
+1494,PH,Belgrano,250.0,1720.0,5.0
+1495,PH,Abasto,200.0,1274.5,5.0
+1496,PH,Paternal,54.0,1814.81,3.0
+1497,PH,Almagro,347.0,1239.19,7.0
+1498,PH,Chacarita,136.0,2058.82,3.0
+1499,PH,Villa del Parque,137.0,1627.74,4.0
+1500,PH,Paternal,137.0,1459.85,5.0
+1501,PH,Villa Real,84.0,952.38,3.0
+1502,PH,Parque Patricios,120.0,1083.33,4.0
+1503,PH,Paternal,85.0,2000.0,4.0
+1504,PH,Villa Luro,47.0,1595.74,1.0
+1505,PH,Villa Crespo,59.0,2194.92,3.0
+1506,PH,Almagro,22.0,2500.0,1.0
+1507,PH,Abasto,45.0,1500.0,2.0
+1508,PH,Mataderos,260.0,1115.38,3.0
+1509,PH,Villa Lugano,90.0,1277.78,4.0
+1510,PH,Boedo,74.0,1608.11,2.0
+1511,PH,Palermo,46.0,2152.17,2.0
+1512,PH,Parque Avellaneda,114.0,872.81,3.0
+1513,PH,Liniers,55.0,1418.18,3.0
+1514,PH,Saavedra,44.0,1954.55,2.0
+1515,PH,Villa Urquiza,84.0,1892.86,2.0
+1516,PH,Villa Real,160.0,1156.25,4.0
+1517,PH,Paternal,80.0,1975.0,3.0
+1518,PH,Barrio Norte,54.0,3240.74,3.0
+1519,PH,Parque Centenario,280.0,1053.57,6.0
+1520,PH,Villa Crespo,20.0,6745.0,2.0
+1521,PH,Almagro,243.0,946.5,4.0
+1522,PH,Palermo,70.0,2128.57,3.0
+1523,PH,Villa Urquiza,115.0,1947.83,4.0
+1524,PH,Villa Devoto,270.0,1666.67,5.0
+1525,PH,Colegiales,100.0,2300.0,5.0
+1526,PH,San Cristobal,80.0,1475.0,3.0
+1527,PH,Boedo,350.0,1000.0,5.0
+1528,PH,Belgrano,86.0,2034.88,4.0
+1529,PH,Barracas,310.0,806.45,4.0
+1530,PH,Abasto,50.0,1350.0,1.0
+1531,PH,Monserrat,169.0,946.75,1.0
+1532,PH,Caballito,466.0,643.78,8.0
+1533,PH,Monte Castro,150.0,1666.67,4.0
+1534,PH,Villa Urquiza,96.0,2572.92,4.0
+1535,PH,Floresta,142.0,1049.3,3.0
+1536,PH,Palermo,166.0,2406.63,4.0
+1537,PH,Parque Avellaneda,240.0,704.17,5.0
+1538,PH,Villa Urquiza,175.0,1714.29,5.0
+1539,PH,Abasto,160.0,1000.0,4.0
+1540,PH,Palermo,39.0,2820.51,2.0
+1541,PH,Liniers,38.0,1605.26,1.0
+1542,PH,Mataderos,85.0,1941.18,3.0
+1543,PH,Barracas,156.0,1025.64,5.0
+1544,PH,Villa Crespo,70.0,1800.0,3.0
+1545,PH,Mataderos,65.0,1107.69,2.0
+1546,PH,Palermo,169.0,2899.41,4.0
+1547,PH,Barracas,105.0,1619.05,3.0
+1548,PH,Mataderos,70.0,1142.86,3.0
+1549,PH,Boedo,125.0,1520.0,3.0
+1550,PH,Villa Lugano,52.0,1538.46,2.0
+1551,PH,Flores,164.0,1250.0,5.0
+1552,PH,Villa Lugano,115.0,1173.91,3.0
+1553,PH,Parque Avellaneda,30.0,1966.67,1.0
+1554,PH,Villa Crespo,39.0,2820.51,2.0
+1555,PH,Almagro,191.0,1439.79,6.0
+1556,PH,Floresta,95.0,1736.84,4.0
+1557,PH,San Cristobal,78.0,1923.08,3.0
+1558,PH,Parque Chacabuco,203.0,517.24,4.0
+1559,PH,Liniers,61.0,1557.38,2.0
+1560,PH,Floresta,140.0,1357.14,5.0
+1561,PH,Villa Real,150.0,1200.0,5.0
+1562,PH,Belgrano,113.0,2920.35,3.0
+1563,PH,Villa Urquiza,74.0,1959.46,3.0
+1564,PH,Colegiales,150.0,1900.0,5.0
+1565,PH,Mataderos,55.0,1545.45,2.0
+1566,PH,Palermo,165.0,1812.12,4.0
+1567,PH,Monte Castro,98.0,1326.53,3.0
+1568,PH,Tribunales,76.0,1842.11,2.0
+1569,PH,Villa Crespo,161.0,1304.35,4.0
+1570,PH,Almagro,207.0,1251.21,4.0
+1571,PH,Floresta,103.0,1456.31,4.0
+1572,PH,Mataderos,51.0,2098.04,2.0
+1573,PH,San Telmo,266.0,1635.34,4.0
+1574,PH,Villa Crespo,290.0,1344.83,5.0
+1575,PH,Liniers,55.0,2000.0,3.0
+1576,PH,Villa Devoto,95.0,1789.47,3.0
+1577,PH,Floresta,103.0,1553.4,3.0
+1578,PH,Caballito,160.0,1175.0,4.0
+1579,PH,Villa del Parque,39.0,3205.13,2.0
+1580,PH,Saavedra,130.0,1769.23,4.0
+1581,PH,Paternal,24.0,2458.33,1.0
+1582,PH,Palermo,85.0,2470.59,3.0
+1583,PH,Mataderos,43.0,2139.53,3.0
+1584,PH,Saavedra,130.0,1769.23,4.0
+1585,PH,Villa del Parque,100.0,1700.0,4.0
+1586,PH,San Telmo,54.0,1648.15,2.0
+1587,PH,Parque Avellaneda,45.0,1222.22,2.0
+1588,PH,Villa del Parque,40.0,2600.0,3.0
+1589,PH,Constitución,90.0,1222.22,5.0
+1590,PH,Villa Pueyrredón,79.0,1772.15,3.0
+1591,PH,Las Cañitas,110.0,2545.45,3.0
+1592,PH,Mataderos,80.0,1025.0,3.0
+1593,PH,Mataderos,145.0,1000.0,8.0
+1594,PH,San Telmo,55.0,1927.27,3.0
+1595,PH,Flores,254.0,1566.93,5.0
+1596,PH,San Cristobal,82.0,1829.27,3.0
+1597,PH,Saavedra,110.0,2136.36,4.0
+1598,PH,Villa Urquiza,114.0,1657.89,4.0
+1599,PH,Villa Urquiza,137.0,2262.77,4.0
+1600,PH,Chacarita,73.0,2054.79,3.0
+1601,PH,Flores,52.0,2153.85,3.0
+1602,PH,Mataderos,76.0,1092.11,1.0
+1603,PH,Parque Avellaneda,61.0,1557.38,1.0
+1604,PH,Boedo,71.0,1971.83,2.0
+1605,PH,Villa Crespo,85.0,1882.35,4.0
+1606,PH,Villa del Parque,100.0,1598.0,4.0
+1607,PH,Paternal,278.0,1147.48,9.0
+1608,PH,Villa Urquiza,120.0,2075.0,5.0
+1609,PH,Coghlan,50.0,2598.0,3.0
+1610,PH,Almagro,95.0,2368.42,3.0
+1611,PH,Balvanera,78.0,1923.08,3.0
+1612,PH,San Cristobal,125.0,2160.0,5.0
+1613,PH,Colegiales,54.0,2407.41,3.0
+1614,PH,San Cristobal,90.0,1222.22,5.0
+1615,PH,Villa Crespo,54.0,2407.41,3.0
+1616,PH,Mataderos,70.0,2042.86,3.0
+1617,PH,Balvanera,57.0,2438.6,4.0
+1618,PH,Mataderos,20.0,2750.0,1.0
+1619,PH,Villa Crespo,61.0,2295.08,3.0
+1620,PH,Parque Avellaneda,122.0,2295.08,4.0
+1621,PH,Caballito,52.0,2115.38,3.0
+1622,PH,Villa Santa Rita,79.0,2278.48,4.0
+1623,PH,Flores,85.0,1047.06,3.0
+1624,PH,Villa Urquiza,20.0,6750.0,3.0
+1625,PH,Velez Sarsfield,120.0,1191.67,6.0
+1626,PH,Villa Crespo,100.0,3500.0,5.0
+1627,PH,Almagro,90.0,2555.56,3.0
+1628,PH,Saavedra,40.0,2100.0,1.0
+1629,PH,Villa Crespo,53.0,2169.81,3.0
+1630,PH,Villa Urquiza,75.0,2933.33,3.0
+1631,PH,Villa del Parque,92.0,1739.13,4.0
+1632,PH,Almagro,221.0,1402.71,5.0
+1633,PH,Villa Real,56.0,2732.14,3.0
+1634,PH,Colegiales,66.0,2878.79,3.0
+1635,PH,Almagro,84.0,2738.1,4.0
+1636,PH,Villa Urquiza,100.0,3460.0,4.0
+1637,PH,Liniers,60.0,1583.33,3.0
+1638,PH,Floresta,112.0,2321.43,4.0
+1639,PH,Parque Patricios,130.0,1269.23,3.0
+1640,PH,Almagro,280.0,1053.57,6.0
+1641,PH,Boedo,64.0,1328.12,3.0
+1642,PH,Boedo,120.0,1291.67,4.0
+1643,PH,Boca,152.0,1381.58,8.0
+1644,PH,Villa Luro,75.0,2133.33,3.0
+1645,PH,Floresta,80.0,2375.0,3.0
+1646,PH,Villa Pueyrredón,31.0,2629.03,1.0
+1647,PH,Parque Patricios,30.0,2333.33,1.0
+1648,PH,Flores,99.0,898.99,3.0
+1649,PH,Floresta,105.0,904.76,2.0
+1650,PH,Paternal,109.0,2073.39,3.0
+1651,PH,Villa Devoto,198.0,1863.64,4.0
+1652,PH,Monserrat,37.0,1945.95,2.0
+1653,PH,Flores,198.0,1085.86,4.0
+1654,PH,Nuñez,159.0,1559.75,4.0
+1655,PH,Mataderos,140.0,1707.14,4.0
+1656,PH,Villa Urquiza,81.0,2283.95,4.0
+1657,PH,Almagro,198.0,2010.1,4.0
+1658,PH,Pompeya,82.0,1585.37,4.0
+1659,PH,Paternal,122.0,1270.49,3.0
+1660,PH,Mataderos,109.0,1422.02,4.0
+1661,PH,Palermo,70.0,2128.57,3.0
+1662,PH,Parque Patricios,45.0,1666.67,2.0
+1663,PH,Versalles,260.0,1684.62,7.0
+1664,PH,Villa Crespo,85.0,1882.35,3.0
+1665,PH,Villa Pueyrredón,66.0,2803.03,3.0
+1666,PH,San Telmo,56.0,1410.71,3.0
+1667,PH,Constitución,55.0,1272.73,3.0
+1668,PH,Floresta,130.0,1384.62,3.0
+1669,PH,Colegiales,92.0,2119.57,3.0
+1670,PH,Caballito,120.0,1791.67,3.0
+1671,PH,Palermo,32.0,2812.5,2.0
+1672,PH,Balvanera,52.0,1884.62,2.0
+1673,PH,Villa del Parque,78.0,1410.26,3.0
+1674,PH,Parque Avellaneda,300.0,566.67,3.0
+1675,PH,Boedo,176.0,1022.73,5.0
+1676,PH,Villa Crespo,176.0,965.91,3.0
+1677,PH,Monte Castro,165.0,1302.42,2.0
+1678,PH,Villa Crespo,51.0,2843.14,3.0
+1679,PH,San Cristobal,370.0,702.7,7.0
+1680,PH,Paternal,85.0,1823.53,4.0
+1681,PH,San Telmo,88.0,1931.82,4.0
+1682,PH,San Telmo,295.0,1186.44,3.0
+1683,PH,Liniers,111.0,1252.25,3.0
+1684,PH,Saavedra,152.0,1611.84,4.0
+1685,PH,Liniers,175.0,971.43,4.0
+1686,PH,Caballito,60.0,2250.0,3.0
+1687,PH,Villa Crespo,61.0,2295.08,3.0
+1688,PH,Saavedra,50.0,2758.0,2.0
+1689,PH,Villa Urquiza,110.0,2136.36,4.0
+1690,PH,Caballito,73.0,1698.63,5.0
+1691,PH,Palermo,114.0,2192.98,3.0
+1692,PH,Caballito,286.0,1500.0,5.0
+1693,PH,Mataderos,120.0,1000.0,4.0
+1694,PH,Villa Lugano,160.0,812.5,5.0
+1695,PH,Belgrano,178.0,2640.45,4.0
+1696,PH,Villa Pueyrredón,135.0,1718.52,3.0
+1697,PH,Palermo,110.0,2000.0,3.0
+1698,PH,Villa Real,73.0,2602.74,3.0
+1699,PH,Colegiales,200.0,2145.0,5.0
+1700,house,Villa Urquiza,260.0,2500.0,5.0
+1701,house,Caballito,182.0,2637.36,6.0
+1702,house,Villa del Parque,405.0,1209.88,5.0
+1703,house,Villa Lugano,202.0,2079.21,3.0
+1704,house,Villa Crespo,450.0,1288.89,7.0
+1705,house,Flores,215.0,1558.14,7.0
+1706,house,Floresta,182.0,1236.26,5.0
+1707,house,Barracas,290.0,1551.72,6.0
+1708,house,Villa Devoto,130.0,1461.54,3.0
+1709,house,Paternal,170.0,2229.41,4.0
+1710,house,Saavedra,250.0,1680.0,7.0
+1711,house,Belgrano,99.0,4696.97,4.0
+1712,house,Palermo,300.0,1933.33,4.0
+1713,house,Villa Soldati,145.0,875.86,4.0
+1714,house,Palermo,335.0,3582.09,5.0
+1715,house,Caballito,184.0,2059.78,8.0
+1716,house,Mataderos,432.0,844.91,4.0
+1717,house,Parque Chacabuco,175.0,1685.71,5.0
+1718,house,Villa Devoto,405.0,2074.07,5.0
+1719,house,Paternal,242.0,1652.89,7.0
+1720,house,Villa Devoto,388.0,1520.62,6.0
+1721,house,Villa General Mitre,326.0,963.19,7.0
+1722,house,Liniers,92.0,1847.83,3.0
+1723,house,Barracas,420.0,1309.52,2.0
+1724,house,Mataderos,253.0,865.61,6.0
+1725,house,Villa del Parque,180.0,1611.11,4.0
+1726,house,Boedo,239.0,2071.13,7.0
+1727,house,Nuñez,295.0,2016.95,9.0
+1728,house,Balvanera,196.0,1913.27,5.0
+1729,house,Villa Luro,300.0,1200.0,5.0
+1730,house,Liniers,135.0,1222.22,3.0
+1731,house,Floresta,150.0,1533.33,5.0
+1732,house,Palermo,30.0,2500.0,2.0
+1733,house,Belgrano,400.0,1700.0,5.0
+1734,house,Versalles,167.0,1227.54,4.0
+1735,house,Palermo,159.0,3018.87,5.0
+1736,house,Belgrano,150.0,2653.33,4.0
+1737,house,Villa Pueyrredón,193.0,1502.59,5.0
+1738,house,Nuñez,175.0,2542.86,6.0
+1739,house,Monte Castro,78.0,2820.51,4.0
+1740,house,Paternal,235.0,1489.36,5.0
+1741,house,Flores,158.0,1677.22,4.0
+1742,house,Villa Devoto,250.0,1432.0,4.0
+1743,house,Villa del Parque,126.0,1984.13,4.0
+1744,house,Floresta,182.0,1236.26,5.0
+1745,house,Villa Luro,280.0,2571.43,7.0
+1746,house,Pompeya,66.0,2227.27,3.0
+1747,house,Colegiales,350.0,1157.14,5.0
+1748,house,Flores,148.0,2668.92,5.0
+1749,house,Mataderos,400.0,675.0,6.0
+1750,house,Paternal,170.0,2235.29,4.0
+1751,house,Caballito,486.0,1018.52,6.0
+1752,house,Versalles,500.0,980.0,5.0
+1753,house,Monte Castro,170.0,1529.41,4.0
+1754,house,Mataderos,282.0,1702.13,4.0
+1755,house,San Cristobal,550.0,870.91,11.0
+1756,house,Mataderos,285.0,842.11,4.0
+1757,house,Parque Avellaneda,234.0,1410.26,5.0
+1758,house,Pompeya,360.0,458.33,2.0
+1759,house,Palermo,54.0,2759.26,2.0
+1760,house,Belgrano,600.0,2166.67,4.0
+1761,house,Floresta,200.0,1075.0,4.0
+1762,house,Saavedra,70.0,1928.57,2.0
+1763,house,Saavedra,108.0,1712.96,4.0
+1764,house,Almagro,240.0,1604.17,5.0
+1765,house,Villa General Mitre,294.0,850.34,5.0
+1766,house,Villa Crespo,210.0,2000.0,4.0
+1767,house,San Telmo,1030.0,1339.81,9.0
+1768,house,Palermo,485.0,2371.13,10.0
+1769,house,Mataderos,140.0,2678.57,4.0
+1770,house,Parque Avellaneda,161.0,1242.24,5.0
+1771,house,Villa Devoto,120.0,1408.33,4.0
+1772,house,Flores,580.0,1189.66,2.0
+1773,house,Liniers,76.0,2105.26,2.0
+1774,house,Villa Santa Rita,133.0,2157.89,4.0
+1775,house,Versalles,240.0,1395.83,6.0
+1776,house,Floresta,170.0,1170.59,4.0
+1777,house,Caballito,57.0,1666.67,2.0
+1778,house,Parque Patricios,350.0,614.29,6.0
+1779,house,Villa Lugano,500.0,500.0,5.0
+1780,house,Mataderos,120.0,1250.0,3.0
+1781,house,Palermo,90.0,2022.22,3.0
+1782,house,Mataderos,372.0,940.86,5.0
+1783,house,Villa Crespo,310.0,1580.65,5.0
+1784,house,Villa Devoto,265.0,1543.4,5.0
+1785,house,Mataderos,220.0,681.82,4.0
+1786,house,Palermo,260.0,1923.08,4.0
+1787,house,Villa Lugano,480.0,541.67,3.0
+1788,house,Palermo,316.0,2689.87,5.0
+1789,house,Villa Lugano,120.0,1250.0,3.0
+1790,house,Mataderos,315.0,841.27,4.0
+1791,house,Villa Urquiza,260.0,1326.92,5.0
+1792,house,Versalles,137.0,1715.33,6.0
+1793,house,Parque Chacabuco,250.0,1099.6,7.0
+1794,house,Villa Devoto,300.0,1600.0,5.0
+1795,house,Flores,145.0,1365.52,4.0
+1796,house,Velez Sarsfield,220.0,1250.0,4.0
+1797,house,Barracas,515.0,873.79,9.0
+1798,house,Villa Devoto,144.0,1944.44,3.0
+1799,house,Mataderos,290.0,827.59,5.0
+1800,house,Versalles,156.0,1987.18,6.0
+1801,house,Belgrano,751.0,2396.8,6.0
+1802,house,Villa Devoto,140.0,1250.0,3.0
+1803,house,Villa Devoto,220.0,2000.0,3.0
+1804,house,Nuñez,58.0,4034.48,2.0
+1805,house,Flores,140.0,1857.14,4.0
+1806,house,Paternal,160.0,1437.5,5.0
+1807,house,Flores,360.0,1444.44,5.0
+1808,house,Villa Luro,320.0,562.5,5.0
+1809,house,Congreso,28.0,2250.0,1.0
+1810,house,Parque Avellaneda,220.0,1354.55,5.0
+1811,house,Villa Luro,225.0,1555.56,5.0
+1812,house,Villa Pueyrredón,150.0,1666.67,4.0
+1813,house,Parque Chacabuco,463.0,1490.28,6.0
+1814,house,Villa del Parque,191.0,2094.24,4.0
+1815,house,Villa Urquiza,500.0,700.0,4.0
+1816,house,Flores,123.0,1211.38,3.0
+1817,house,Mataderos,134.0,1380.6,3.0
+1818,house,Mataderos,103.0,1699.03,3.0
+1819,house,Villa Soldati,141.0,1134.75,5.0
+1820,house,Pompeya,134.0,858.21,4.0
+1821,house,Caballito,450.0,288.89,4.0
+1822,house,Nuñez,145.0,1931.03,3.0
+1823,house,San Cristobal,220.0,1590.91,4.0
+1824,house,Villa Urquiza,171.0,2157.89,4.0
+1825,house,Palermo,252.0,2059.52,11.0
+1826,house,Villa del Parque,410.0,1439.02,5.0
+1827,house,Villa Lugano,150.0,1333.33,3.0
+1828,house,Velez Sarsfield,475.0,924.21,5.0
+1829,house,Almagro,355.0,1492.96,7.0
+1830,house,Villa Lugano,200.0,880.0,5.0
+1831,house,Villa del Parque,225.0,2044.44,5.0
+1832,house,San Cristobal,534.0,897.0,11.0
+1833,house,Colegiales,200.0,1495.0,5.0
+1834,house,Caballito,155.0,1741.94,4.0
+1835,house,Floresta,240.0,1562.5,7.0
+1836,house,Almagro,166.0,2409.64,4.0
+1837,house,Belgrano,450.0,3111.11,8.0
+1838,house,Palermo,300.0,3166.67,7.0
+1839,house,Mataderos,212.0,580.19,4.0
+1840,house,Villa Real,375.0,933.33,3.0
+1841,house,Liniers,120.0,1491.67,3.0
+1842,house,Paternal,345.0,1260.87,6.0
+1843,house,Mataderos,183.0,1311.48,5.0
+1844,house,Mataderos,154.0,1136.36,4.0
+1845,house,Villa Pueyrredón,206.0,1791.26,4.0
+1846,house,Versalles,260.0,1684.62,7.0
+1847,house,Belgrano,280.0,2714.29,5.0
+1848,house,Caballito,209.0,1425.84,5.0
+1849,house,Almagro,185.0,1999.46,5.0
+1850,house,Mataderos,202.0,915.84,7.0
+1851,house,Flores,152.0,1000.0,3.0
+1852,house,Flores,350.0,1257.14,5.0
+1853,house,Versalles,173.0,1132.95,5.0
+1854,house,Chacarita,121.0,1735.54,4.0
+1855,house,Parque Chacabuco,146.0,1301.37,5.0
+1856,house,Mataderos,336.0,565.48,4.0
+1857,house,Villa del Parque,268.0,1641.79,4.0
+1858,house,Coghlan,389.0,1534.7,6.0
+1859,house,Paternal,150.0,1366.67,5.0
+1860,house,Flores,198.0,66.0,6.0
+1861,house,Flores,200.0,1315.0,4.0
+1862,house,Villa Lugano,200.0,1125.0,9.0
+1863,house,Chacarita,220.0,1086.36,5.0
+1864,house,Nuñez,87.0,3160.92,3.0
+1865,house,Monte Castro,180.0,1388.89,4.0
+1866,house,Liniers,330.0,1196.97,6.0
+1867,house,Boca,438.0,639.27,5.0
+1868,house,Villa Luro,155.0,2058.06,5.0
+1869,house,Villa del Parque,259.0,1467.18,3.0
+1870,house,Villa Urquiza,118.0,1644.07,4.0
+1871,house,Barracas,306.0,1666.67,5.0
+1872,house,Palermo,400.0,2975.0,9.0
+1873,house,Nuñez,89.0,3033.71,3.0
+1874,house,Villa Lugano,481.0,748.44,6.0
+1875,house,Palermo,93.0,2204.3,2.0
+1876,house,Liniers,150.0,1573.33,4.0
+1877,house,Boedo,230.0,1065.22,5.0
+1878,house,Villa Luro,150.0,1566.67,4.0
+1879,house,Barracas,120.0,2082.5,5.0
+1880,house,Floresta,253.0,1102.77,4.0
+1881,house,Velez Sarsfield,231.0,1010.82,5.0
+1882,house,Villa General Mitre,292.0,1335.62,5.0
+1883,house,Floresta,450.0,1577.78,5.0
+1884,house,Flores,218.0,1605.5,5.0
+1885,house,Villa Lugano,305.0,554.1,5.0
+1886,house,Palermo,38.0,2368.42,1.0
+1887,house,Villa General Mitre,200.0,1750.0,5.0
+1888,house,Almagro,171.0,1988.3,4.0
+1889,house,Mataderos,106.0,1273.58,3.0
+1890,house,Paternal,200.0,1250.0,5.0
+1891,house,Mataderos,320.0,903.12,4.0
+1892,house,Villa del Parque,78.0,2102.56,3.0
+1893,house,Villa Devoto,320.0,1796.88,6.0
+1894,house,Villa Pueyrredón,215.0,1720.93,1.0
+1895,house,Villa Pueyrredón,237.0,2215.19,5.0
+1896,house,Villa Lugano,200.0,840.0,4.0
+1897,house,Liniers,200.0,1750.0,5.0
+1898,house,Villa Urquiza,143.0,1958.04,4.0
+1899,house,Palermo,847.0,1416.77,8.0
+1900,house,Pompeya,400.0,495.0,6.0
+1901,house,Floresta,500.0,1370.0,2.0
+1902,house,Mataderos,260.0,961.54,4.0
+1903,house,Villa Crespo,218.0,1055.05,4.0
+1904,house,Flores,191.0,1308.9,4.0
+1905,house,Villa Crespo,220.0,1086.36,5.0
+1906,house,Floresta,580.0,663.79,5.0
+1907,house,Mataderos,300.0,827.67,5.0
+1908,house,Saavedra,300.0,1653.33,8.0
+1909,house,Recoleta,72.0,2916.67,4.0
+1910,house,Parque Chacabuco,117.0,2564.1,3.0
+1911,house,Floresta,94.0,1148.94,5.0
+1912,house,Caballito,257.0,1552.53,4.0
+1913,house,Palermo,210.0,3333.33,4.0
+1914,house,Belgrano,360.0,1722.22,6.0
+1915,house,Mataderos,130.0,1846.15,5.0
+1916,house,Liniers,350.0,857.14,3.0
+1917,house,Palermo,65.0,2538.46,2.0
+1918,house,Parque Patricios,504.0,1091.27,6.0
+1919,house,Barracas,580.0,620.69,5.0
+1920,house,Mataderos,476.0,735.29,5.0
+1921,house,Almagro,200.0,2250.0,5.0
+1922,house,Palermo,220.0,1772.73,4.0
+1923,house,Villa del Parque,345.0,1333.33,5.0
+1924,house,Villa Devoto,260.0,1150.0,5.0
+1925,house,Flores,214.0,1214.95,5.0
+1926,house,Floresta,150.0,2066.67,4.0
+1927,house,San Nicolás,156.0,897.44,6.0
+1928,house,Flores,380.0,1302.63,5.0
+1929,house,Villa del Parque,221.0,1719.46,5.0
+1930,house,Barracas,403.0,583.13,5.0
+1931,house,Caballito,218.0,2064.22,5.0
+1932,house,Villa Santa Rita,232.0,1724.14,5.0
+1933,house,Nuñez,250.0,2320.0,5.0
+1934,house,Parque Patricios,250.0,1260.0,4.0
+1935,house,Villa Crespo,38.0,1973.68,2.0
+1936,house,Boca,320.0,384.38,7.0
+1937,house,Flores,225.0,1311.11,6.0
+1938,house,Belgrano,450.0,1888.89,5.0
+1939,house,Villa del Parque,171.0,2046.78,4.0
+1940,house,Floresta,305.0,1475.41,6.0
+1941,house,Villa Pueyrredón,250.0,1000.0,3.0
+1942,house,Villa Luro,611.0,1415.71,5.0
+1943,house,Floresta,440.0,750.0,5.0
+1944,house,Caballito,430.0,1137.21,6.0
+1945,house,Villa Urquiza,263.0,1463.5,4.0
+1946,house,Palermo,298.0,2533.56,6.0
+1947,house,Pompeya,380.0,602.63,5.0
+1948,house,Puerto Madero,114.0,3026.32,5.0
+1949,house,Boedo,268.0,1436.57,2.0
+1950,house,Liniers,160.0,1543.75,4.0
+1951,house,Belgrano,190.0,2552.63,5.0
+1952,house,Saavedra,180.0,2555.56,4.0
+1953,house,Villa Luro,233.0,1673.82,5.0
+1954,house,Mataderos,327.0,1345.57,4.0
+1955,house,Boedo,485.0,1649.48,6.0
+1956,house,Villa Devoto,226.0,1924.78,4.0
+1957,house,Constitución,550.0,870.91,11.0
+1958,house,Caballito,280.0,1392.86,4.0
+1959,house,Boedo,280.0,1246.43,7.0
+1960,house,Colegiales,660.0,2348.48,10.0
+1961,house,Villa Pueyrredón,194.0,1340.21,4.0
+1962,house,Boca,278.0,845.32,5.0
+1963,house,Villa Devoto,569.0,1159.93,4.0
+1964,house,Saavedra,88.0,1534.09,2.0
+1965,house,Almagro,184.0,1521.74,4.0
+1966,house,Almagro,210.0,1452.38,5.0
+1967,house,Palermo,122.0,2295.08,3.0
+1968,house,Boedo,330.0,909.09,3.0
+1969,house,Villa Pueyrredón,260.0,1865.38,5.0
+1970,house,Mataderos,512.0,1328.12,4.0
+1971,house,Flores,250.0,1400.0,5.0
+1972,house,Flores,270.0,1851.85,5.0
+1973,house,Palermo,335.0,3582.09,5.0
+1974,house,Villa Devoto,205.0,2073.17,5.0
+1975,house,Villa Luro,200.0,1275.0,4.0
+1976,house,Palermo,300.0,1933.33,4.0
+1977,house,Mataderos,240.0,1041.67,5.0
+1978,house,Parque Patricios,290.0,827.59,5.0
+1979,house,Palermo,260.0,3076.92,7.0
+1980,house,Flores,124.0,1047.58,4.0
+1981,house,Villa del Parque,234.0,2478.63,5.0
+1982,house,Villa Crespo,138.0,3043.48,5.0
+1983,house,Parque Chacabuco,145.0,1365.52,4.0
+1984,house,Villa Crespo,291.0,1099.66,4.0
+1985,house,Mataderos,315.0,841.27,4.0
+1986,house,Villa Santa Rita,370.0,1418.92,7.0
+1987,house,Flores,486.0,1193.42,4.0
+1988,house,Almagro,294.0,1530.61,5.0
+1989,house,Villa Devoto,218.0,1692.66,7.0
+1990,house,Floresta,160.0,1562.5,4.0
+1991,house,Almagro,400.0,1375.0,6.0
+1992,house,Floresta,500.0,940.0,9.0
+1993,house,Palermo,532.0,2255.64,6.0
+1994,house,Mataderos,314.0,1560.51,6.0
+1995,house,Villa Devoto,77.0,2792.21,3.0
+1996,house,Villa Devoto,102.0,2774.51,5.0
+1997,house,Liniers,134.0,1604.48,3.0
+1998,house,Caballito,280.0,1392.86,4.0
+1999,house,Mataderos,204.0,808.82,4.0
+2000,house,Liniers,130.0,1276.92,4.0
+2001,house,Mataderos,325.0,676.92,5.0
+2002,house,Villa Crespo,179.0,1312.85,5.0
+2003,house,Villa Urquiza,192.0,2083.33,4.0
+2004,house,Flores,237.0,1261.6,8.0
+2005,house,Villa del Parque,180.0,961.11,4.0
+2006,house,Barracas,260.0,711.54,5.0
+2007,house,Villa Devoto,496.0,1592.74,4.0
+2008,house,Caballito,263.0,1463.88,2.0
+2009,house,Boca,227.0,1057.27,5.0
+2010,house,Barracas,139.0,1007.19,4.0
+2011,house,Palermo,532.0,2255.64,6.0
+2012,house,Villa Lugano,100.0,950.0,4.0
+2013,house,Villa Lugano,453.0,871.96,7.0
+2014,house,Floresta,185.0,1000.0,4.0
+2015,house,Belgrano,873.0,2749.14,5.0
+2016,house,Caballito,156.0,2371.79,5.0
+2017,house,Colegiales,400.0,1800.0,6.0
+2018,house,Caballito,332.0,1460.84,5.0
+2019,house,Belgrano,108.0,4444.44,5.0
+2020,house,Villa Luro,76.0,2105.26,2.0
+2021,house,Parque Patricios,202.0,1485.15,5.0
+2022,house,Monte Castro,140.0,2135.71,3.0
+2023,house,Villa Crespo,227.0,1013.22,7.0
+2024,house,Liniers,198.0,1363.64,6.0
+2025,house,Villa Lugano,135.0,1296.3,3.0
+2026,house,Villa Crespo,99.0,1434.34,4.0
+2027,house,Palermo,723.0,2351.31,7.0
+2028,house,Flores,236.0,1347.46,5.0
+2029,house,Palermo,250.0,2480.0,4.0
+2030,house,Flores,130.0,2346.15,4.0
+2031,house,Villa Real,163.0,1404.91,4.0
+2032,house,Colegiales,123.0,2105.69,4.0
+2033,house,Villa del Parque,172.0,1715.12,4.0
+2034,house,Recoleta,129.0,4262.79,4.0
+2035,house,Mataderos,492.0,853.66,5.0
+2036,house,Flores,153.0,2156.86,4.0
+2037,house,Belgrano,178.0,2359.55,5.0
+2038,house,Villa Crespo,300.0,1600.0,5.0
+2039,house,Villa Urquiza,117.0,2136.75,4.0
+2040,house,Villa Luro,187.0,1390.37,3.0
+2041,house,Colegiales,135.0,1992.59,4.0
+2042,house,Villa Pueyrredón,170.0,1676.47,5.0
+2043,house,Villa Devoto,109.0,2165.14,4.0
+2044,house,Mataderos,270.0,1333.33,5.0
+2045,house,Villa del Parque,329.0,1610.94,1.0
+2046,house,Pompeya,360.0,636.11,7.0
+2047,house,Liniers,450.0,955.56,5.0
+2048,house,Villa del Parque,472.0,741.53,6.0
+2049,house,Villa Devoto,200.0,2400.0,6.0
+2050,house,Parque Chacabuco,394.0,634.52,1.0
+2051,house,Liniers,120.0,1375.0,4.0
+2052,house,Caballito,150.0,1766.67,4.0
+2053,house,Mataderos,150.0,900.0,5.0
+2054,house,Villa Devoto,155.0,1483.87,4.0
+2055,house,Colegiales,410.0,1134.15,5.0
+2056,house,Mataderos,76.0,2105.26,2.0
+2057,house,Belgrano,400.0,3250.0,5.0
+2058,house,Villa Luro,270.0,1018.52,1.0
+2059,house,Nuñez,591.0,1336.72,6.0
+2060,house,San Cristobal,351.0,1965.81,5.0
+2061,house,Saavedra,226.0,1261.06,1.0
+2062,house,Villa Pueyrredón,177.0,1836.16,7.0
+2063,house,Villa Crespo,130.0,1838.46,4.0
+2064,house,Liniers,270.0,1185.19,3.0
+2065,house,Villa Urquiza,233.0,1373.39,5.0
+2066,house,Villa Devoto,160.0,2125.0,4.0
+2067,house,Belgrano,300.0,2983.33,5.0
+2068,house,Mataderos,252.0,1785.71,5.0
+2069,house,Villa del Parque,395.0,1253.16,4.0
+2070,house,Palermo,277.0,2707.58,7.0
+2071,house,Mataderos,227.0,784.14,4.0
+2072,house,Nuñez,162.0,1790.12,4.0
+2073,house,Villa Devoto,450.0,888.89,6.0
+2074,house,Mataderos,305.0,554.1,5.0
+2075,house,Villa Crespo,197.0,3035.53,5.0
+2076,house,Villa Luro,231.0,1010.82,5.0
+2077,house,Barrio Norte,380.0,1105.26,1.0
+2078,house,Belgrano,490.0,2244.9,6.0
+2079,house,Mataderos,216.0,925.93,5.0
+2080,house,Villa Devoto,170.0,1500.0,8.0
+2081,house,Villa Urquiza,405.0,802.47,7.0
+2082,house,Villa Santa Rita,200.0,1800.0,5.0
+2083,house,Villa Lugano,135.0,1111.11,3.0
+2084,house,Floresta,220.0,1272.73,1.0
+2085,house,Almagro,187.0,1652.41,4.0
+2086,house,Boedo,31.0,1774.19,1.0
+2087,house,Saavedra,150.0,2660.0,6.0
+2088,house,Villa Urquiza,226.0,1460.18,4.0
+2089,house,Villa Devoto,258.0,1240.31,2.0
+2090,house,Barracas,375.0,733.33,3.0
+2091,house,Mataderos,575.0,513.04,3.0
+2092,house,Flores,140.0,2271.43,4.0
+2093,house,Villa Devoto,592.0,929.05,6.0
+2094,house,Pompeya,20.0,6500.0,4.0
+2095,house,Parque Avellaneda,447.0,1051.45,7.0
+2096,house,Monserrat,306.0,1274.51,7.0
+2097,house,Flores,223.0,672.65,5.0
+2098,house,Liniers,8175.0,20.18,4.0
+2099,house,Caballito,265.0,1245.28,4.0
+2100,house,Balvanera,106.0,2518.87,5.0
+2101,house,Parque Chas,180.0,1833.33,5.0
+2102,house,Boedo,180.0,1944.44,5.0
+2103,house,Palermo,574.0,1479.09,3.0
+2104,house,Saavedra,120.0,2208.33,4.0
+2105,house,Monte Castro,354.0,1129.94,5.0
+2106,house,Caballito,500.0,1400.0,5.0
+2107,house,Villa Real,304.0,1052.63,5.0
+2108,house,Coghlan,260.0,1884.62,5.0
+2109,house,Parque Chacabuco,222.0,878.38,4.0
+2110,house,Flores,143.0,1251.75,4.0
+2111,house,Boedo,600.0,2000.0,8.0
+2112,house,Villa Devoto,130.0,1923.08,3.0
+2113,house,Villa Crespo,180.0,2055.56,4.0
+2114,house,Parque Chacabuco,400.0,1975.0,5.0
+2115,house,Flores,297.0,909.09,6.0
+2116,house,Flores,300.0,1800.0,6.0
+2117,house,Parque Patricios,92.0,1739.13,4.0
+2118,house,Villa Crespo,400.0,1912.5,8.0
+2119,house,Villa Urquiza,184.0,1005.43,4.0
+2120,house,Villa del Parque,340.0,1161.76,6.0
+2121,house,Parque Avellaneda,191.0,837.7,3.0
+2122,house,Caballito,185.0,2837.84,4.0
+2123,house,Villa Lugano,360.0,930.56,3.0
+2124,house,Flores,286.0,1118.53,4.0
+2125,house,Mataderos,251.0,856.57,4.0
+2126,house,Mataderos,250.0,1660.0,5.0
+2127,house,Parque Patricios,230.0,695.22,4.0
+2128,house,Belgrano,75.0,6666.67,4.0
+2129,house,Parque Chacabuco,100.0,1590.0,6.0
+2130,house,Flores,175.0,1594.29,5.0
+2131,house,Belgrano,549.0,1730.42,10.0
+2132,house,Villa Urquiza,115.0,2173.91,4.0
+2133,house,Parque Chas,42.0,2261.9,1.0
+2134,house,Villa Devoto,360.0,1250.0,6.0
+2135,house,Flores,206.0,1577.67,6.0
+2136,house,Parque Chas,140.0,2214.29,2.0
+2137,house,Villa Luro,133.0,1353.38,5.0
+2138,house,Villa Urquiza,213.0,1126.76,5.0
+2139,house,Palermo,300.0,5833.33,5.0
+2140,house,Caballito,114.0,2192.98,3.0
+2141,house,Flores,360.0,694.44,5.0
+2142,house,Caballito,200.0,1725.0,4.0
+2143,house,Palermo,105.0,3809.52,1.0
+2144,house,Paternal,310.0,1322.58,4.0
+2145,house,Palermo,270.0,2888.89,4.0
+2146,house,Caballito,260.0,2884.62,6.0
+2147,house,Villa Devoto,274.0,1551.09,4.0
+2148,house,Barracas,141.0,1595.74,2.0
+2149,house,Villa del Parque,520.0,1019.23,5.0
+2150,house,Saavedra,104.0,1394.23,3.0
+2151,house,Belgrano,338.0,2662.72,10.0
+2152,house,Villa Lugano,300.0,1283.33,3.0
+2153,house,Boedo,380.0,1184.21,5.0
+2154,house,Liniers,180.0,1277.78,4.0
+2155,house,Parque Avellaneda,138.0,1231.88,4.0
+2156,house,Flores,210.0,1166.67,4.0
+2157,house,Barracas,193.0,1450.78,4.0
+2158,house,Villa Crespo,311.0,2556.27,8.0
+2159,house,Caballito,180.0,2000.0,4.0
+2160,house,San Telmo,275.0,1327.27,6.0
+2161,house,Villa Lugano,250.0,680.0,4.0
+2162,house,Villa General Mitre,116.0,2586.21,5.0
+2163,house,Liniers,460.0,1195.65,5.0
+2164,house,Caballito,360.0,2194.44,7.0
+2165,house,Flores,92.0,2391.3,3.0
+2166,house,Villa Urquiza,260.0,1884.62,5.0
+2167,house,Monserrat,82.0,1948.78,5.0
+2168,house,Villa Devoto,250.0,2320.0,4.0
+2169,house,Villa Real,246.0,1056.91,4.0
+2170,house,Parque Avellaneda,225.0,880.0,3.0
+2171,house,Parque Chacabuco,350.0,1028.57,5.0
+2172,house,Villa Pueyrredón,260.0,1269.23,6.0
+2173,house,Flores,120.0,1558.33,7.0
+2174,house,Flores,212.0,1650.94,6.0
+2175,house,Parque Avellaneda,20.0,3950.0,6.0
+2176,house,Boedo,30.0,1333.33,1.0
+2177,house,Belgrano,433.0,1466.51,5.0
+2178,house,Saavedra,539.0,1076.07,7.0
+2179,house,San Cristobal,235.0,1148.94,5.0
+2180,house,Parque Avellaneda,150.0,1126.67,5.0
+2181,house,Caballito,140.0,3214.29,5.0
+2182,house,Flores,140.0,1678.57,5.0
+2183,house,Chacarita,272.0,2022.06,5.0
+2184,house,Palermo,487.0,1642.71,7.0
+2185,house,Flores,255.0,980.39,5.0
+2186,house,Nuñez,675.0,1911.11,10.0
+2187,house,Villa Urquiza,43.0,2302.33,2.0
+2188,house,Belgrano,70.0,3428.57,2.0
+2189,house,Almagro,640.0,1078.12,8.0
+2190,house,Velez Sarsfield,202.0,1460.4,5.0
+2191,house,Caballito,159.0,2182.39,4.0
+2192,house,Mataderos,461.0,563.99,6.0
+2193,house,Palermo,311.0,2234.73,5.0
+2194,house,Mataderos,400.0,1000.0,7.0
+2195,house,Belgrano,350.0,2828.57,9.0
+2196,house,Mataderos,98.0,1734.69,3.0
+2197,house,Belgrano,1015.0,2463.05,12.0
+2198,house,Caballito,220.0,1581.82,10.0
+2199,house,Colegiales,232.0,2241.38,3.0
+2200,house,San Telmo,274.0,1423.36,6.0
+2201,house,Boedo,130.0,1423.08,4.0
+2202,house,Villa Urquiza,235.0,1255.32,3.0
+2203,house,Boedo,500.0,1300.0,6.0
+2204,house,Floresta,83.0,1771.08,3.0
+2205,house,Almagro,140.0,1850.0,5.0
+2206,house,Coghlan,110.0,2272.73,4.0
+2207,house,Boedo,31.0,1774.19,1.0
+2208,house,Parque Patricios,130.0,1461.54,5.0
+2209,house,Colegiales,120.0,500.0,4.0
+2210,house,Colegiales,200.0,1720.0,4.0
+2211,house,Mataderos,200.0,1400.0,4.0
+2212,house,Flores,160.0,2000.0,6.0
+2213,house,Palermo,145.0,4000.0,6.0
+2214,house,Barracas,140.0,700.0,3.0
+2215,house,Coghlan,106.0,2547.17,4.0
+2216,house,Villa Lugano,147.0,782.31,3.0
+2217,house,Floresta,176.0,1676.14,4.0
+2218,house,Villa Devoto,135.0,2592.59,4.0
+2219,house,Villa del Parque,250.0,1800.0,5.0
+2220,house,Villa Devoto,265.0,2075.47,5.0
+2221,house,Mataderos,100.0,2750.0,3.0
+2222,house,Parque Chacabuco,78.0,2369.88,2.0
+2223,house,Colegiales,182.0,2137.36,6.0
+2224,house,Mataderos,156.0,512.82,3.0
+2225,house,Flores,260.0,1000.0,4.0
+2226,house,Paternal,240.0,1333.33,4.0
+2227,house,Boedo,31.0,1774.19,1.0
+2228,house,Villa Pueyrredón,70.0,2257.14,3.0
+2229,house,Belgrano,433.0,1466.51,5.0
+2230,house,Barracas,152.0,2763.16,6.0
+2231,house,Villa Pueyrredón,203.0,1620.69,5.0
+2232,house,Almagro,765.0,758.17,5.0
+2233,house,Mataderos,270.0,1037.04,5.0
+2234,house,Pompeya,180.0,972.22,5.0
+2235,house,Barracas,141.0,1595.74,2.0
+2236,house,Floresta,216.0,1157.41,4.0
+2237,house,Barracas,179.0,1061.45,4.0
+2238,house,Floresta,160.0,1562.5,3.0
+2239,house,Colegiales,400.0,1800.0,6.0
+2240,house,Flores,416.0,1322.12,8.0
+2241,house,San Telmo,275.0,1327.27,6.0
+2242,house,Belgrano,325.0,2769.23,7.0
+2243,house,Mataderos,250.0,760.0,3.0
+2244,house,Villa Luro,367.0,1459.13,6.0
+2245,house,Paternal,230.0,913.04,5.0
+2246,house,Palermo,840.0,1309.52,10.0
+2247,house,Liniers,323.0,696.59,5.0
+2248,house,Villa Luro,198.0,1338.38,4.0
+2249,house,Villa Lugano,120.0,2000.0,3.0
+2250,house,Floresta,110.0,2000.0,3.0
+2251,house,Mataderos,116.0,1189.66,3.0
+2252,house,Floresta,290.0,1379.31,7.0
+2253,house,Centro / Microcentro,600.0,1366.67,7.0
+2254,house,Boedo,274.0,1423.36,6.0
+2255,house,Nuñez,80.0,2987.5,2.0
+2256,house,Villa Lugano,150.0,1233.33,4.0
+2257,house,Belgrano,465.0,4838.71,7.0
+2258,house,Mataderos,190.0,1289.47,5.0
+2259,house,Villa Devoto,80.0,2437.5,4.0
+2260,house,Villa Devoto,228.0,1293.86,5.0
+2261,house,Caballito,286.0,2622.38,5.0
+2262,house,Floresta,276.0,1250.0,4.0
+2263,house,Villa del Parque,179.0,1536.31,4.0
+2264,house,Floresta,100.0,1850.0,3.0
+2265,house,Villa Devoto,235.0,2297.87,5.0
+2266,house,Villa Luro,130.0,1530.77,3.0
+2267,house,Saavedra,110.0,2272.73,4.0
+2268,house,Flores,324.0,1141.98,5.0
+2269,house,San Telmo,320.0,1500.0,5.0
+2270,house,Villa Pueyrredón,310.0,903.23,3.0
+2271,house,Coghlan,162.0,2160.49,4.0
+2272,house,Palermo,49.0,3061.22,1.0
+2273,house,Villa Urquiza,208.0,2163.46,5.0
+2274,house,Flores,70.0,1857.14,3.0
+2275,house,Villa Devoto,450.0,1955.56,4.0
+2276,house,Villa Devoto,154.0,1948.05,4.0
+2277,house,Liniers,173.0,1300.58,5.0
+2278,house,Villa Lugano,340.0,1058.82,5.0
+2279,house,Villa Lugano,208.0,528.85,4.0
+2280,house,Balvanera,140.0,1339.29,4.0
+2281,house,Villa del Parque,155.0,1419.35,4.0
+2282,house,San Cristobal,90.0,1222.22,5.0
+2283,house,Villa Lugano,723.0,511.76,3.0
+2284,house,Flores,140.0,1178.57,3.0
+2285,house,Villa Urquiza,375.0,1573.33,6.0
+2286,house,Caballito,235.0,1914.89,4.0
+2287,house,San Cristobal,420.0,833.33,1.0
+2288,house,Villa Devoto,75.0,3133.33,3.0
+2289,house,Villa Pueyrredón,193.0,1502.59,5.0
+2290,house,Versalles,68.0,1691.18,3.0
+2291,house,Flores,130.0,1346.15,4.0
+2292,house,Flores,250.0,1680.0,6.0
+2293,house,Villa Crespo,255.0,1372.55,5.0
+2294,house,Liniers,170.0,1441.18,4.0
+2295,house,Palermo,137.0,1824.82,4.0
+2296,house,Liniers,242.0,1425.62,4.0
+2297,house,Saavedra,240.0,2041.67,5.0
+2298,house,Saavedra,200.0,2450.0,5.0
+2299,house,Nuñez,271.0,1955.72,5.0
+2300,house,Mataderos,372.0,940.86,4.0
+2301,house,Villa Lugano,440.0,613.64,6.0
+2302,house,Parque Patricios,232.0,775.86,6.0
+2303,house,Villa Urquiza,350.0,2828.57,7.0
+2304,house,Flores,190.0,1526.32,4.0
+2305,house,San Cristobal,234.0,1128.21,5.0
+2306,house,Chacarita,170.0,1294.12,4.0
+2307,house,Villa Lugano,120.0,1250.0,3.0
+2308,house,Agronomía,377.0,1167.11,10.0
+2309,house,Mataderos,303.0,825.08,5.0
+2310,house,Villa Pueyrredón,100.0,2775.0,5.0
+2311,house,Villa Devoto,440.0,2909.09,4.0
+2312,house,Villa Devoto,80.0,2437.5,4.0
+2313,house,Villa Devoto,346.0,2008.67,7.0
+2314,house,Saavedra,270.0,1666.67,3.0
+2315,house,Villa Devoto,240.0,2166.67,6.0
+2316,house,Liniers,235.0,1553.19,3.0
+2317,house,Caballito,226.0,1282.3,5.0
+2318,house,Mataderos,300.0,900.0,4.0
+2319,house,Mataderos,150.0,1233.33,3.0
+2320,house,Villa Luro,240.0,1458.33,7.0
+2321,house,Villa Crespo,290.0,2137.93,6.0
+2322,house,Parque Chacabuco,180.0,2138.89,4.0
+2323,house,Caballito,149.0,2013.42,4.0
+2324,house,Belgrano,255.0,1823.53,5.0
+2325,house,Belgrano,450.0,2144.44,4.0
+2326,house,Almagro,240.0,1604.17,10.0
+2327,house,Palermo,330.0,2969.7,7.0
+2328,house,Villa Devoto,441.0,1473.92,5.0
+2329,house,Belgrano,666.0,2402.4,6.0
+2330,house,Mataderos,180.0,1494.44,5.0
+2331,house,Belgrano,520.0,2500.0,7.0
+2332,house,Nuñez,249.0,2871.49,6.0
+2333,house,Saavedra,106.0,2641.51,4.0
+2334,house,Parque Chas,138.0,2246.38,4.0
+2335,house,Palermo,324.0,2932.1,6.0
+2336,house,Villa Urquiza,195.0,1846.15,4.0
+2337,house,Caballito,210.0,2085.71,5.0
+2338,house,Flores,265.0,1339.62,5.0
+2339,house,Villa Pueyrredón,350.0,1000.0,5.0
+2340,house,Agronomía,494.0,860.32,5.0
+2341,house,Villa Urquiza,284.0,1179.58,5.0
+2342,house,Belgrano,850.0,3058.82,7.0
+2343,house,Villa Real,150.0,1600.0,4.0
+2344,house,Nuñez,84.0,1975.0,2.0
+2345,house,Saavedra,170.0,2058.82,4.0
+2346,house,Floresta,150.0,2526.67,4.0
+2347,house,San Cristobal,330.0,1121.21,3.0
+2348,house,Barracas,274.0,1423.36,6.0
+2349,house,Boedo,420.0,880.95,5.0
+2350,house,Pompeya,180.0,888.89,3.0
+2351,house,Saavedra,229.0,1655.02,5.0
+2352,house,Almagro,310.0,1258.06,6.0
+2353,house,Barracas,140.0,1064.29,6.0
+2354,house,Belgrano,175.0,1771.43,4.0
+2355,house,Nuñez,170.0,1588.24,5.0
+2356,house,Pompeya,180.0,1055.56,5.0
+2357,house,Liniers,122.0,1516.39,3.0
+2358,house,Belgrano,471.0,1263.27,7.0
+2359,house,Versalles,625.0,720.0,5.0
+2360,house,Barracas,420.0,1309.52,6.0
+2361,house,Nuñez,160.0,1937.5,4.0
+2362,house,Boca,146.0,1643.84,5.0
+2363,house,Villa Devoto,614.0,1384.36,5.0
+2364,house,Villa Ortuzar,172.0,2209.3,6.0
+2365,house,Mataderos,158.0,1803.8,4.0
+2366,house,Mataderos,222.0,743.24,4.0
+2367,house,Mataderos,240.0,1041.67,5.0
+2368,house,Belgrano,389.0,2262.21,4.0
+2369,house,Colegiales,52.0,2596.15,2.0
+2370,house,Villa del Parque,400.0,950.0,6.0
+2371,house,Saavedra,306.0,1500.0,6.0
+2372,house,Villa Ortuzar,182.0,1373.63,5.0
+2373,house,Belgrano,237.0,2405.06,4.0
+2374,house,Floresta,120.0,2250.0,4.0
+2375,house,Villa del Parque,100.0,2400.0,4.0
+2376,house,Parque Chacabuco,433.0,923.79,4.0
+2377,house,Villa Devoto,147.0,1965.99,4.0
+2378,house,Caballito,260.0,1538.46,5.0
+2379,house,Versalles,156.0,1538.46,4.0
+2380,house,Saavedra,567.0,864.2,5.0
+2381,house,Boedo,258.0,1550.39,5.0
+2382,house,Floresta,484.0,1134.3,6.0
+2383,house,Colegiales,232.0,2241.38,4.0
+2384,house,Mataderos,303.0,643.56,5.0
+2385,house,Chacarita,212.0,2075.47,8.0
+2386,house,Floresta,129.0,2170.54,3.0
+2387,house,Villa Devoto,70.0,1857.14,3.0
+2388,house,Liniers,302.0,761.59,4.0
+2389,house,Boedo,270.0,1222.22,6.0
+2390,house,Belgrano,900.0,2000.0,10.0
+2391,house,Floresta,171.0,1695.32,4.0
+2392,house,Caballito,127.0,2204.72,4.0
+2393,house,Coghlan,232.0,1939.66,5.0
+2394,house,Villa General Mitre,225.0,1733.33,5.0
+2395,house,Pompeya,270.0,737.04,5.0
+2396,house,Parque Chacabuco,187.0,2373.8,4.0
+2397,house,Belgrano,463.0,1501.08,5.0
+2398,house,Caballito,203.0,1812.81,5.0
+2399,house,Saavedra,115.0,1630.43,4.0
+2400,house,Liniers,136.0,1544.12,2.0
+2401,house,Boedo,290.0,1103.45,5.0
+2402,house,Saavedra,110.0,2454.55,5.0
+2403,house,Villa Lugano,64.0,1562.5,3.0
+2404,house,Parque Patricios,115.0,2217.39,3.0
+2405,house,Saavedra,345.0,1591.3,6.0
+2406,house,Almagro,250.0,1800.0,5.0
+2407,house,Flores,610.0,967.21,3.0
+2408,house,Caballito,211.0,1611.37,4.0
+2409,house,Floresta,100.0,2200.0,3.0
+2410,house,Nuñez,364.0,2500.0,6.0
+2411,house,Belgrano,400.0,1800.0,6.0
+2412,house,San Cristobal,432.0,1108.8,11.0
+2413,house,Palermo,501.0,1996.01,4.0
+2414,house,Almagro,1700.0,1058.82,8.0
+2415,house,Palermo,220.0,1772.73,4.0
+2416,house,Villa Lugano,161.0,1173.91,3.0
+2417,house,Villa Urquiza,280.0,1228.57,5.0
+2418,house,Coghlan,245.0,1053.06,4.0
+2419,house,Nuñez,402.0,1865.67,4.0
+2420,house,Villa Luro,365.0,849.32,6.0
+2421,house,Villa Urquiza,99.0,2323.23,4.0
+2422,house,Palermo,220.0,1772.73,4.0
+2423,house,Parque Chacabuco,36.0,2487.03,1.0
+2424,house,Parque Chacabuco,175.0,2171.43,5.0
+2425,house,Mataderos,315.0,857.14,4.0
+2426,house,Floresta,182.0,1236.26,5.0
+2427,house,Colegiales,350.0,1614.29,7.0
+2428,house,Caballito,480.0,1229.17,5.0
+2429,house,Villa Crespo,390.0,2179.49,7.0
+2430,house,Villa Lugano,200.0,900.0,4.0
+2431,house,Mataderos,145.0,1157.93,6.0
+2432,house,Colegiales,66.0,3000.0,3.0
+2433,house,Versalles,448.0,1227.68,5.0
+2434,house,Villa Devoto,156.0,2243.59,4.0
+2435,house,Villa del Parque,94.0,2691.49,3.0
+2436,house,Monserrat,373.0,1045.58,5.0
+2437,house,Boedo,30.0,1233.33,1.0
+2438,house,Pompeya,112.0,1687.5,4.0
+2439,house,Boca,430.0,883.72,6.0
+2440,house,Nuñez,380.0,2078.95,6.0
+2441,house,Almagro,800.0,661.25,7.0
+2442,house,Parque Chas,141.0,1907.8,6.0
+2443,house,Floresta,800.0,537.5,4.0
+2444,house,Palermo,165.0,2696.97,4.0
+2445,house,Flores,185.0,1135.14,4.0
+2446,house,Saavedra,230.0,1826.09,7.0
+2447,house,Palermo,124.0,2378.23,4.0
+2448,house,Palermo,175.0,2942.86,4.0
+2449,house,Belgrano,350.0,1000.0,4.0
+2450,house,Almagro,140.0,1339.29,4.0
+2451,house,San Cristobal,229.0,1362.45,5.0
+2452,house,Villa Lugano,81.0,1234.57,3.0
+2453,house,Barracas,450.0,811.11,5.0
+2454,house,Velez Sarsfield,302.0,1291.39,6.0
+2455,house,Saavedra,301.0,1488.37,6.0
+2456,house,Monte Castro,600.0,1150.0,6.0
+2457,house,Colegiales,532.0,2255.64,6.0
+2458,house,Villa Crespo,524.0,1908.4,8.0
+2459,house,Villa Devoto,126.0,1984.13,4.0
+2460,house,Villa Urquiza,32.0,2906.25,1.0
+2461,house,Velez Sarsfield,315.0,1126.98,6.0
+2462,house,Mataderos,260.0,730.77,4.0
+2463,house,Palermo,270.0,2518.52,5.0
+2464,house,Saavedra,104.0,1634.62,3.0
+2465,house,Villa Devoto,330.0,1303.03,6.0
+2466,house,Villa Luro,200.0,1825.0,3.0
+2467,house,Mataderos,125.0,1760.0,3.0
+2468,house,Almagro,900.0,555.56,8.0
+2469,house,Villa Pueyrredón,400.0,950.0,5.0
+2470,house,Villa Devoto,141.0,1737.59,3.0
+2471,house,Villa Devoto,165.0,1303.03,2.0
+2472,house,Villa del Parque,491.0,723.01,4.0
+2473,house,Floresta,166.0,1024.1,4.0
+2474,house,Palermo,220.0,1772.73,4.0
+2475,house,Villa Ortuzar,275.0,2141.82,6.0
+2476,house,Flores,258.0,724.81,4.0
+2477,house,Saavedra,176.0,2386.36,4.0
+2478,house,Versalles,170.0,1382.35,4.0
+2479,house,Palermo,600.0,2483.33,7.0
+2480,house,Villa Lugano,130.0,923.08,5.0
+2481,house,Villa Urquiza,145.0,2586.21,4.0
+2482,house,Saavedra,160.0,1875.0,3.0
+2483,house,Belgrano,263.0,1863.12,4.0
+2484,house,Saavedra,311.0,1591.64,6.0
+2485,house,Belgrano,436.0,2270.64,4.0
+2486,house,Palermo,653.0,3369.07,7.0
+2487,house,Flores,290.0,1344.83,4.0
+2488,house,Floresta,200.0,375.0,3.0
+2489,house,Nuñez,270.0,1848.15,5.0
+2490,house,Belgrano,280.0,2714.29,5.0
+2491,house,Villa Luro,318.0,1698.11,6.0
+2492,house,Puerto Madero,190.0,5526.32,3.0
+2493,house,Villa del Parque,230.0,913.04,5.0
+2494,house,Parque Chacabuco,550.0,1145.45,1.0
+2495,house,San Cristobal,40.0,2972.5,1.0
+2496,house,Mataderos,304.0,888.16,6.0
+2497,house,Villa Real,225.0,1022.22,3.0
+2498,house,Barrio Norte,350.0,3000.0,8.0
+2499,house,San Cristobal,180.0,1222.22,6.0
+2500,house,Villa Lugano,110.0,1272.73,3.0
+2501,house,Villa Crespo,333.0,2327.33,6.0
+2502,house,Mataderos,474.0,1160.34,5.0
+2503,house,Villa Urquiza,200.0,1745.0,4.0
+2504,house,Villa Crespo,210.0,2085.71,5.0
+2505,house,Belgrano,330.0,2575.76,2.0
+2506,house,Liniers,220.0,1795.45,4.0
+2507,house,Barracas,710.0,401.41,2.0
+2508,house,Palermo,170.0,2823.53,4.0
+2509,house,Villa Lugano,108.0,1509.26,4.0
+2510,house,Villa Lugano,108.0,1509.26,4.0
+2511,house,Parque Chacabuco,179.0,1955.31,4.0
+2512,house,Nuñez,126.0,2301.59,3.0
+2513,house,Villa Lugano,372.0,1034.95,4.0
+2514,house,Villa Devoto,60.0,2033.33,2.0
+2515,house,Caballito,110.0,2272.73,4.0
+2516,house,Mataderos,344.0,726.74,4.0
+2517,house,Villa Lugano,400.0,600.0,3.0
+2518,house,Nuñez,160.0,1812.5,6.0
+2519,house,Floresta,120.0,1416.67,3.0
+2520,house,Villa Devoto,186.0,1338.71,5.0
+2521,house,Constitución,90.0,1222.22,5.0
+2522,house,Mataderos,375.0,693.33,4.0
+2523,house,Floresta,600.0,365.83,3.0
+2524,house,Parque Patricios,134.0,1455.22,4.0
+2525,house,Paternal,260.0,1223.08,5.0
+2526,house,Villa Riachuelo,260.0,769.23,3.0
+2527,house,Boedo,230.0,1082.61,5.0
+2528,house,Boedo,504.0,1091.27,6.0
+2529,house,Villa Devoto,79.0,2784.81,3.0
+2530,house,Villa Urquiza,220.0,2131.82,5.0
+2531,house,Villa General Mitre,540.0,518.52,8.0
+2532,house,Villa Pueyrredón,215.0,1627.91,3.0
+2533,house,Mataderos,372.0,502.69,3.0
+2534,house,Villa Pueyrredón,70.0,1857.14,3.0
+2535,house,Flores,350.0,942.86,5.0
+2536,house,Barracas,150.0,1933.33,3.0
+2537,house,Villa Lugano,110.0,1181.82,3.0
+2538,house,Villa Urquiza,263.0,1463.5,5.0
+2539,house,Flores,90.0,2500.0,3.0
+2540,house,Saavedra,233.0,1373.39,5.0
+2541,house,Villa Pueyrredón,267.0,1348.31,5.0
+2542,house,Villa Pueyrredón,72.0,1805.56,3.0
+2543,house,Villa General Mitre,370.0,1418.92,5.0
+2544,house,Boca,274.0,1423.36,6.0
+2545,house,Liniers,180.0,1055.56,3.0
+2546,house,Villa Devoto,246.0,1077.24,3.0
+2547,house,Palermo,220.0,1086.36,5.0
+2548,house,Versalles,85.0,1352.94,3.0
+2549,house,Villa Urquiza,190.0,1526.32,5.0
